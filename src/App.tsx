@@ -17,7 +17,7 @@ import { NotFoundPage } from './pages/NotFoundPage';
 export const App: React.FC = () => {
   return (
     <ShopProvider>
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <Routes>
           <Route element={<SiteLayout />}>
             <Route path="/" element={<HomePage />} />
@@ -40,4 +40,3 @@ export const App: React.FC = () => {
 };
 
 export default App;
-

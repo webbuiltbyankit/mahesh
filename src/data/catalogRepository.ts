@@ -9,14 +9,54 @@ import type {
   Product,
 } from '../types/catalog';
 
-const catalogData = rawCatalogJson as unknown as CatalogData;
-const quarantinedRecords = rawQuarantinedJson as unknown as Product[];
+const RAW_BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
+
+function prefixUrl(url: string | null | undefined): string {
+  if (!url) return '';
+  if (url.startsWith('http') || url.startsWith('data:')) return url;
+  const clean = url.startsWith('/') ? url : '/' + url;
+  return RAW_BASE ? `${RAW_BASE}${clean}` : clean;
+}
+
+const rawCatalog = rawCatalogJson as unknown as CatalogData;
+const rawQuarantined = rawQuarantinedJson as unknown as Product[];
+
+const normalizedBrand: BrandMetadata = {
+  ...rawCatalog.brand,
+  logo: {
+    ...rawCatalog.brand.logo,
+    publicWebpPath: prefixUrl(rawCatalog.brand.logo.publicWebpPath),
+    publicPngPath: prefixUrl(rawCatalog.brand.logo.publicPngPath),
+  },
+};
+
+const normalizedProducts: Product[] = rawCatalog.products.map((p) => ({
+  ...p,
+  media: p.media.map((m) => ({
+    ...m,
+    thumbUrl: prefixUrl(m.thumbUrl),
+    cardUrl: prefixUrl(m.cardUrl),
+    galleryUrl: prefixUrl(m.galleryUrl),
+    originalFormatUrl: prefixUrl(m.originalFormatUrl),
+  })),
+}));
+
+const normalizedQuarantined: Product[] = rawQuarantined.map((p) => ({
+  ...p,
+  media: p.media.map((m) => ({
+    ...m,
+    thumbUrl: prefixUrl(m.thumbUrl),
+    cardUrl: prefixUrl(m.cardUrl),
+    galleryUrl: prefixUrl(m.galleryUrl),
+    originalFormatUrl: prefixUrl(m.originalFormatUrl),
+  })),
+}));
 
 const productByIdMap = new Map<string, Product>();
 const productBySlugMap = new Map<string, Product>();
 const productBySkuMap = new Map<string, Product[]>();
 
-for (const product of catalogData.products) {
+for (const product of normalizedProducts) {
   productByIdMap.set(product.id.toUpperCase(), product);
   productBySlugMap.set(product.slug.toLowerCase(), product);
   if (product.productCode) {
@@ -28,37 +68,37 @@ for (const product of catalogData.products) {
 }
 
 export function getBrandMetadata(): BrandMetadata {
-  return catalogData.brand;
+  return normalizedBrand;
 }
 
 export function getCatalogCounts() {
-  return catalogData.counts;
+  return rawCatalog.counts;
 }
 
 export function getAllApprovedProducts(): Product[] {
-  return catalogData.products;
+  return normalizedProducts;
 }
 
 export function getQuarantinedAndReferenceRecords(): Product[] {
-  return quarantinedRecords;
+  return normalizedQuarantined;
 }
 
 export function getCategories(): CategorySummary[] {
-  return catalogData.categories;
+  return rawCatalog.categories;
 }
 
 export function getCategoryBySlug(slug: string | undefined): CategorySummary | undefined {
   if (!slug) return undefined;
-  return catalogData.categories.find((c) => c.slug === slug.toLowerCase());
+  return rawCatalog.categories.find((c) => c.slug === slug.toLowerCase());
 }
 
 export function getEditorialEdits(): EditorialEdit[] {
-  return catalogData.editorialEdits;
+  return rawCatalog.editorialEdits;
 }
 
 export function getEditorialEditBySlug(slug: string | undefined | null): EditorialEdit | undefined {
   if (!slug) return undefined;
-  return catalogData.editorialEdits.find((e) => e.slug === slug.toLowerCase());
+  return rawCatalog.editorialEdits.find((e) => e.slug === slug.toLowerCase());
 }
 
 export function getProductById(id: string | undefined | null): Product | undefined {
@@ -96,7 +136,7 @@ export function getProductsByIds(ids: string[]): Product[] {
 }
 
 export function getProductsByCategory(category: PrimaryCategorySlug): Product[] {
-  return catalogData.products.filter((p) => p.primaryCategory === category);
+  return normalizedProducts.filter((p) => p.primaryCategory === category);
 }
 
 /**
@@ -104,7 +144,7 @@ export function getProductsByCategory(category: PrimaryCategorySlug): Product[] 
  * or sharing a verified fabric facet (Prompt 158).
  */
 export function getRelatedProducts(current: Product, limit = 4): Product[] {
-  const candidates = catalogData.products.filter((p) => p.id !== current.id);
+  const candidates = normalizedProducts.filter((p) => p.id !== current.id);
   const scored = candidates.map((item) => {
     let score = 0;
     if (item.primaryCategory === current.primaryCategory) score += 4;
@@ -131,7 +171,7 @@ export function getRelatedProducts(current: Product, limit = 4): Product[] {
   return picked;
 }
 
-export function getPriceBounds(products: Product[] = catalogData.products): {
+export function getPriceBounds(products: Product[] = normalizedProducts): {
   min: number;
   max: number;
 } {
@@ -144,4 +184,3 @@ export function getPriceBounds(products: Product[] = catalogData.products): {
     max: Math.max(...prices),
   };
 }
-
