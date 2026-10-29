@@ -1,0 +1,76 @@
+:root {
+  /* Color Tokens — Prompt 025 & 242 */
+  --bg-ivory: #F8F6F1;
+  --bg-paper: #FFFEFA;
+  --bg-Sand: #F1ECE2;
+  --bg-plum-tint: #F4EFF5;
+  --bg-plum-deep: #2A1233;
+
+  --text-ink: #241C24;
+  --text-muted: #5E5258;
+  --text-subtle: #786B71;
+
+  --brand-plum: #4C205A;
+  --brand-plum-hover: #381543;
+  --brand-plum-soft: rgba(76, 32, 90, 0.08);
+
+  --accent-taupe: #B5A99C;
+  --accent-gold: #B99B63;
+  --accent-gold-soft: rgba(185, 155, 99, 0.16);
+
+  --border-subtle: #E6DFD5;
+  --border-strong: #CFC4B4;
+
+  --status-error: #8E2836;
+  --status-error-bg: #FDF2F4;
+  --status-success: #24593E;
+  --status-success-bg: #F1F8F4;
+
+  /* Typography — Prompt 026 & 241 */
+  --font-serif: 'Cormorant Garamond', 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+
+  --text-display: clamp(2.35rem, 4.2vw, 3.85rem);
+  --text-h1: clamp(1.95rem, 3.2vw, 3rem);
+  --text-h2: clamp(1.55rem, 2.3vw, 2.25rem);
+  --text-h3: clamp(1.2rem, 1.5vw, 1.5rem);
+  --text-body-lg: clamp(1.02rem, 1.1vw, 1.125rem);
+  --text-body: 0.96875rem; /* 15.5px */
+  --text-sm: 0.875rem;     /* 14px */
+  --text-xs: 0.75rem;      /* 12px */
+
+  /* Spacing Scale (4/8pt rhythm) — Prompt 027 */
+  --space-1: 0.25rem;  /* 4px */
+  --space-2: 0.5rem;   /* 8px */
+  --space-3: 0.75rem;  /* 12px */
+  --space-4: 1rem;     /* 16px */
+  --space-5: 1.25rem;  /* 20px */
+  --space-6: 1.5rem;   /* 24px */
+  --space-8: 2rem;     /* 32px */
+  --space-10: 2.5rem;  /* 40px */
+  --space-12: 3rem;    /* 48px */
+  --space-16: 4rem;    /* 64px */
+  --space-20: 5rem;    /* 80px */
+  --space-24: 6rem;    /* 96px */
+
+  /* Layout & Container — Prompt 028 */
+  --container-max: 1320px;
+  --container-gutter: clamp(1rem, 3.2vw, 2.5rem);
+
+  /* Radii & Shadows — Prompt 244 */
+  --radius-xs: 2px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-pill: 999px;
+
+  --shadow-subtle: 0 2px 12px rgba(36, 28, 36, 0.04);
+  --shadow-card: 0 10px 28px rgba(36, 28, 36, 0.06);
+  --shadow-drawer: -12px 0 40px rgba(36, 28, 36, 0.14);
+
+  /* Transitions — Prompt 248 */
+  --ease-editorial: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-fast: 180ms;
+  --duration-normal: 320ms;
+}
+

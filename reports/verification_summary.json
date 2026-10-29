@@ -1,0 +1,333 @@
+{
+  "verified_at_utc": "2026-10-29T15:06:40.227634+00:00",
+  "entire_profile_downloaded": false,
+  "counts": {
+    "profile_pictures_downloaded": 1,
+    "single_post_images_downloaded": 64,
+    "carousel_items_downloaded": 250,
+    "reel_covers_downloaded": 0,
+    "reel_videos_downloaded": 0,
+    "highlight_media_downloaded": 1,
+    "total_local_media_files": 316,
+    "valid_media_files": 316,
+    "corrupted_media_files": 0,
+    "duplicate_file_groups_detected": 62,
+    "structured_post_or_reference_records": 69,
+    "structured_product_records": 69
+  },
+  "metadata_files_integrity": {
+    "profile/profile.json": true,
+    "profile/business_info.md": true,
+    "posts/posts.json": true,
+    "posts/posts.csv": true,
+    "products/products.json": true,
+    "products/products.csv": true,
+    "products/react_vite_catalog.json": true,
+    "reports/media_manifest.csv": true
+  },
+  "corrupted_files": [],
+  "duplicate_groups": {
+    "a759c2e041136fccb4950cbf5ce0218209b1d4ed92943f71801a7c58833ccad3": [
+      "posts/images/md_web_banaras-fabric.jpg",
+      "carousels/md_web_banaras-fabric/md_web_banaras-fabric_slide_01.jpg"
+    ],
+    "f387ed2cf4ca5f64e040f896d5088bb2030f347a229469e2855f50303644abd8": [
+      "posts/images/md_web_banaras-saree-1.jpg",
+      "carousels/md_web_banaras-saree-1/md_web_banaras-saree-1_slide_01.jpg"
+    ],
+    "c90e4c3280b9a04d1e1ec3f720c6714066d59dbd1b419e016f6730c0e1d403b0": [
+      "posts/images/md_web_banaras-saree-checked.jpg",
+      "carousels/md_web_banaras-saree-checked/md_web_banaras-saree-checked_slide_01.jpg"
+    ],
+    "45b600cf7c49acd01d40db93776961240e11d1f2859d3616fda93bb3c008ff50": [
+      "posts/images/md_web_banaras-saree-with-zari-work.jpg",
+      "carousels/md_web_banaras-saree-with-zari-work/md_web_banaras-saree-with-zari-work_slide_01.jpg"
+    ],
+    "26c4c0d50d9ee994c7c29fdbf6e61ab8b6de85978f5e79449632d763646d9311": [
+      "posts/images/md_web_banaras-saree.jpg",
+      "carousels/md_web_banaras-saree/md_web_banaras-saree_slide_01.jpg"
+    ],
+    "c4aebba2921b4ba9319155eb07bfe95e3c485d2c757a0633ac94d0753b788224": [
+      "posts/images/md_web_banarashi-tussar-48.jpg",
+      "carousels/md_web_banarashi-tussar-48/md_web_banarashi-tussar-48_slide_01.jpg"
+    ],
+    "209732e050608a75ab9557fef512d63550f2785c7f150cb30b25578a492689ef": [
+      "posts/images/md_web_banarasi-tussar-49.jpg",
+      "carousels/md_web_banarasi-tussar-49/md_web_banarasi-tussar-49_slide_01.jpg"
+    ],
+    "3ac0cd68a53f5b7000ffc3fdfa610b0cbbc7d4d081b16a5474187d14b48d0342": [
+      "posts/images/md_web_banarasi-tussar-saree-50.jpg",
+      "carousels/md_web_banarasi-tussar-saree-50/md_web_banarasi-tussar-saree-50_slide_01.jpg"
+    ],
+    "125b8b26343b0fd8fc130678b0fc2d39f4bcb359a9b42c9f96e807be45ecc76a": [
+      "posts/images/md_web_chanderi-44.jpg",
+      "carousels/md_web_chanderi-44/md_web_chanderi-44_slide_01.jpg"
+    ],
+    "d3722962ec671e3ea3060ddf5fdb8adf85d0e97bdf58e93c1493bf5349c2afbb": [
+      "posts/images/md_web_cotton-saree.jpg",
+      "carousels/md_web_cotton-saree/md_web_cotton-saree_slide_01.jpg"
+    ],
+    "d1bd96f8a27e527e6cb9362442d955d1d8f0efe3c28de75e1389eb979ba64a0d": [
+      "posts/images/md_web_cotton-zari-chudi.jpg",
+      "carousels/md_web_cotton-zari-chudi/md_web_cotton-zari-chudi_slide_01.jpg"
+    ],
+    "282debf4ae865f135245805a4f0bc7cdc5f30924d7c5b2d4937c003bc85e3ee1": [
+      "posts/images/md_web_fancy-banaras-saree-41.jpg",
+      "carousels/md_web_fancy-banaras-saree-41/md_web_fancy-banaras-saree-41_slide_01.jpg"
+    ],
+    "c1a784e0ca12e63f27b46dce3324dc21ceb071dd834cd38ca16c5b4e078aefef": [
+      "posts/images/md_web_fancy-banaras-saree.jpg",
+      "carousels/md_web_fancy-banaras-saree/md_web_fancy-banaras-saree_slide_01.jpg"
+    ],
+    "db4ecec6a9fe625bcc9d75abb09ed7865a42263b4ef364e6a3858b3e3f75b3e0": [
+      "posts/images/md_web_fancy-banaras.jpg",
+      "carousels/md_web_fancy-banaras/md_web_fancy-banaras_slide_01.jpg"
+    ],
+    "61ec21d83f76f808c6bd7ce5b8df517e76bbf80d886c9b3de6dd345352215297": [
+      "posts/images/md_web_fancy-chanderi-thread-mirror-work.jpg",
+      "carousels/md_web_fancy-chanderi-thread-mirror-work/md_web_fancy-chanderi-thread-mirror-work_slide_01.jpg"
+    ],
+    "9bfcd8ac86b74a6c721ce51c063504f54bb1c012525e1bfbcf171873c3edf088": [
+      "posts/images/md_web_fancy-cotton-saree.jpg",
+      "carousels/md_web_fancy-cotton-saree/md_web_fancy-cotton-saree_slide_01.jpg"
+    ],
+    "c4c1311e4ab3ff9406853eef1e63622626bb8b21436d08c31caca8cf99416183": [
+      "posts/images/md_web_fancy-cotton.jpg",
+      "carousels/md_web_fancy-cotton/md_web_fancy-cotton_slide_01.jpg"
+    ],
+    "e8878032732fb56e9d0d73963d56761ac71f9fe59cb304dda55d2886d79973a6": [
+      "posts/images/md_web_fancy-saree.jpg",
+      "carousels/md_web_fancy-saree/md_web_fancy-saree_slide_01.jpg"
+    ],
+    "ad7e5383420660e8b08974a1db90633b7eaa5a3f5ae6d3841a6da575426373ec": [
+      "posts/images/md_web_jamdani-chanderi-saree.jpg",
+      "carousels/md_web_jamdani-chanderi-saree/md_web_jamdani-chanderi-saree_slide_01.jpg"
+    ],
+    "c478adf74849511b479480f44200d038ca05943b1f7280973ebe51257702afa6": [
+      "posts/images/md_web_jute-cotton-saree.jpg",
+      "carousels/md_web_jute-cotton-saree/md_web_jute-cotton-saree_slide_01.jpg"
+    ],
+    "81b2ceb3a5a7d4a0bf8411f04c5ddd47935d0182d887ee51bbd6a558be8aa5d1": [
+      "posts/images/md_web_jute-cotton.jpg",
+      "carousels/md_web_jute-cotton/md_web_jute-cotton_slide_01.jpg"
+    ],
+    "da71ff021bf77a043d0e373886f28b32da5646e9f77fa7b4f8e41eb8bccf1efe": [
+      "posts/images/md_web_jute-saree-1.jpg",
+      "carousels/md_web_jute-saree-1/md_web_jute-saree-1_slide_01.jpg"
+    ],
+    "a3dc472b8c1d57285b526a2ad2b2778a5d59db6db4e56b84fde86b4b40043e02": [
+      "posts/images/md_web_jute-saree-2.jpg",
+      "carousels/md_web_jute-saree-2/md_web_jute-saree-2_slide_01.jpg"
+    ],
+    "b6d24e0d53af0e87af60bfc6ffc23a96adb7fa7bd0fe23c62e1679c48bc210e3": [
+      "posts/images/md_web_jute-saree.jpg",
+      "carousels/md_web_jute-saree/md_web_jute-saree_slide_01.jpg"
+    ],
+    "c0f369aacae808c315560e65e35c7cbd888cb994359879c6c6cdb073a0e1ba06": [
+      "posts/images/md_web_jute-tussar.jpg",
+      "carousels/md_web_jute-tussar/md_web_jute-tussar_slide_01.jpg"
+    ],
+    "4c98d059db2af79445b96ed023098150fc5f058fe371db7fd264b8151db4dcda": [
+      "posts/images/md_web_kalamkari-cotton.jpg",
+      "carousels/md_web_kalamkari-cotton/md_web_kalamkari-cotton_slide_01.jpg"
+    ],
+    "37185088e75fadab4cbd246dcdac2f5bcd3994f1f2c9b852e89ab061bcc18464": [
+      "posts/images/md_web_kota-saree.jpg",
+      "carousels/md_web_kota-saree/md_web_kota-saree_slide_01.jpg"
+    ],
+    "ad2210b2c8782cf85330ab886b71db9bc7c87f7c2fe6b1ee4b1ea56817323dde": [
+      "posts/images/md_web_kotta-doria.jpg",
+      "carousels/md_web_kotta-doria/md_web_kotta-doria_slide_01.jpg"
+    ],
+    "4336646fba85450988373d18d41e100f400b8ead389eeec6cd510589071664af": [
+      "posts/images/md_web_lite-zari-work-chanderi-cotton.jpg",
+      "carousels/md_web_lite-zari-work-chanderi-cotton/md_web_lite-zari-work-chanderi-cotton_slide_01.jpg"
+    ],
+    "ff6c6d89e2b31ff8a35d13b5ff67479aba0699dcd542300b8ffa0c947860dede": [
+      "posts/images/md_web_mul-chanderi-pearl-thread-work.jpg",
+      "carousels/md_web_mul-chanderi-pearl-thread-work/md_web_mul-chanderi-pearl-thread-work_slide_01.jpg"
+    ],
+    "4c7504e1f01f95f5d61d5c34875497679c87055d110796673c6cc2a6ffe7f798": [
+      "posts/images/md_web_mul-chanderi-saree-39.jpg",
+      "carousels/md_web_mul-chanderi-saree-39/md_web_mul-chanderi-saree-39_slide_01.jpg"
+    ],
+    "3b11e0926b3bd8f8302f07bb8b9559f4b5270ea7b74676fd2a4a7fee6b7c649c": [
+      "posts/images/md_web_muslin-cotton-sequence-pearl-work.jpg",
+      "carousels/md_web_muslin-cotton-sequence-pearl-work/md_web_muslin-cotton-sequence-pearl-work_slide_01.jpg"
+    ],
+    "674663821eebe4a10251f77a9bd42dc5cad33f79df24ab431a499a936152931c": [
+      "posts/images/md_web_oraganza-46.jpg",
+      "carousels/md_web_oraganza-46/md_web_oraganza-46_slide_01.jpg"
+    ],
+    "8d0d578e8ca61bbc11ca44c5fe806319c7567b02ed2529fe2f5ff3928b6eafe5": [
+      "posts/images/md_web_paper-tussar-saree-1.jpg",
+      "carousels/md_web_paper-tussar-saree-1/md_web_paper-tussar-saree-1_slide_01.jpg"
+    ],
+    "0b5d301d65c1a11211c04f3010cc41e527665f04ac6dde0aba6a6c382dd61a36": [
+      "posts/images/md_web_paper-tussar-saree.jpg",
+      "carousels/md_web_paper-tussar-saree/md_web_paper-tussar-saree_slide_01.jpg"
+    ],
+    "2d46738a02a0e42a11a01e95cc87ccb6b83507e1849ede3cc79e81da8c9e1477": [
+      "posts/images/md_web_sana-silk-fabric.jpg",
+      "carousels/md_web_sana-silk-fabric/md_web_sana-silk-fabric_slide_01.jpg"
+    ],
+    "330c30a12e12cf48fdac67721ecfcd53feb409b6ccb5d6c7010b18c82249367f": [
+      "posts/images/md_web_saree-1.jpg",
+      "carousels/md_web_saree-1/md_web_saree-1_slide_01.jpg"
+    ],
+    "a2f6c5af42928f2ce1999d1af7929edac8aa75c2f0c6c6c15428cfd210fd87e3": [
+      "posts/images/md_web_saree-2.jpg",
+      "carousels/md_web_saree-2/md_web_saree-2_slide_01.jpg"
+    ],
+    "a8a5b7385dc39b0ad6cbbe87993357ed31aa8aaa5dc413d018d2fb802454357c": [
+      "posts/images/md_web_saree-3.jpg",
+      "carousels/md_web_saree-3/md_web_saree-3_slide_01.jpg"
+    ],
+    "abc4b81641d4b0f7fdcc87f49fe26bf850eaddbfc4ff5246b8e181284c5328d4": [
+      "posts/images/md_web_saree.jpg",
+      "carousels/md_web_saree/md_web_saree_slide_01.jpg"
+    ],
+    "c2721ad215e9bfe5f5ee07e062600c23caa96d15e2c0c153c668a08334608313": [
+      "posts/images/md_web_semi-banaras-42.jpg",
+      "carousels/md_web_semi-banaras-42/md_web_semi-banaras-42_slide_01.jpg"
+    ],
+    "5750309a63a27cecb14bd6b1346a566d0d5270c3f2e7233d30f4b313e98386f8": [
+      "posts/images/md_web_semi-banaras-saree-43.jpg",
+      "carousels/md_web_semi-banaras-saree-43/md_web_semi-banaras-saree-43_slide_01.jpg"
+    ],
+    "fcf58336bbb1c16042ea479995172ea2005375a036e2bd84db8d2214e080ad2f": [
+      "posts/images/md_web_semi-chanderi-thread-zari-work.jpg",
+      "carousels/md_web_semi-chanderi-thread-zari-work/md_web_semi-chanderi-thread-zari-work_slide_01.jpg"
+    ],
+    "93f565a7cd16ba95b95e23898e5bea39a44d39c54404a4344a24e67cb75a12ea": [
+      "posts/images/md_web_semi-raw-silk.jpg",
+      "carousels/md_web_semi-raw-silk/md_web_semi-raw-silk_slide_01.jpg"
+    ],
+    "70c2eccfd0bc71689fe2a95ffe4eae139d71a67b43f3b4c40c9669cbae99599d": [
+      "posts/images/md_web_semi-rawsilk-top-shawl-jute-cotton.jpg",
+      "carousels/md_web_semi-rawsilk-top-shawl-jute-cotton/md_web_semi-rawsilk-top-shawl-jute-cotton_slide_01.jpg"
+    ],
+    "27330df0a78b2eab081d7df5f61ca0e3731c14b690c3d823b3873e5dd9f78fa3": [
+      "posts/images/md_web_slup-cotton-saree.jpg",
+      "carousels/md_web_slup-cotton-saree/md_web_slup-cotton-saree_slide_01.jpg"
+    ],
+    "45accfe535ae84e9065c0a0761db0464f59d277df0215b93bbdf5142ea8d6def": [
+      "posts/images/md_web_slup-cotton.jpg",
+      "carousels/md_web_slup-cotton/md_web_slup-cotton_slide_01.jpg"
+    ],
+    "2ac4ec6fae135cddb54df556171e1a127c284234368861657b971e404848d1ca": [
+      "posts/images/md_web_soft-banarasi.jpg",
+      "carousels/md_web_soft-banarasi/md_web_soft-banarasi_slide_01.jpg"
+    ],
+    "80d68055628aecc61ff8d22dcc8b15c2dafbaf7aaa2c4bbc4d56d1de864761a7": [
+      "posts/images/md_web_soft-tissue-saree-45.jpg",
+      "carousels/md_web_soft-tissue-saree-45/md_web_soft-tissue-saree-45_slide_01.jpg"
+    ],
+    "89653c9c52c53bbae4c8cf36abc02caa8c4863128767ca7c21a9f074ac9d94ea": [
+      "posts/images/md_web_soft-tissue-saree-51.jpg",
+      "carousels/md_web_soft-tissue-saree-51/md_web_soft-tissue-saree-51_slide_01.jpg"
+    ],
+    "ccda014b97c0776614cc1b73742717dcc538d9cee9900d376603bdd252643c74": [
+      "posts/images/md_web_tissue-linen-saree.jpg",
+      "carousels/md_web_tissue-linen-saree/md_web_tissue-linen-saree_slide_01.jpg"
+    ],
+    "9cf98a0aa1bee1a96b65e274e3e92db3c9403834acd17e90cd0c2b0f9bc43ff5": [
+      "posts/images/md_web_tread-work-muslin-fabric.jpg",
+      "carousels/md_web_tread-work-muslin-fabric/md_web_tread-work-muslin-fabric_slide_01.jpg"
+    ],
+    "174c87f3fdbfc9623ec07c4ec43bc9bdf6e5c152fa414eff57610f98ed2d4d04": [
+      "posts/images/md_web_tussar-banaras-saree-52.jpg",
+      "carousels/md_web_tussar-banaras-saree-52/md_web_tussar-banaras-saree-52_slide_01.jpg"
+    ],
+    "5ec9a02daff974a8c3939b42c3048dac8b72bbceaf33afde419b15744e303d70": [
+      "posts/images/md_web_tussar-banarasi-saree-47.jpg",
+      "carousels/md_web_tussar-banarasi-saree-47/md_web_tussar-banarasi-saree-47_slide_01.jpg"
+    ],
+    "7f7b45e8f92a832e8585d9c449913f29a341390b1c501a1b146e3272d462ff31": [
+      "posts/images/md_web_tussar-saree-1.jpg",
+      "carousels/md_web_tussar-saree-1/md_web_tussar-saree-1_slide_01.jpg"
+    ],
+    "74c606da6c5468b7e15368450cf2399926cc7ef8a82807f94e954ceb6d5beee0": [
+      "posts/images/md_web_tussar-saree.jpg",
+      "carousels/md_web_tussar-saree/md_web_tussar-saree_slide_01.jpg"
+    ],
+    "54d74422a2aebdbfea4f8be251c68e244ba5ce703782cfc74b51a66c542b9cc6": [
+      "posts/images/md_web_tussar.jpg",
+      "carousels/md_web_tussar/md_web_tussar_slide_01.jpg"
+    ],
+    "978babe33328c4eceb534af548ce551fba3b376cab77a7cdc9d38806d93e187c": [
+      "posts/images/md_web_vichitra-silk.jpg",
+      "carousels/md_web_vichitra-silk/md_web_vichitra-silk_slide_01.jpg"
+    ],
+    "fe42e1a3268849613c9460ffa96265cd4f98641f7ead521dd8547d7a63c36137": [
+      "posts/images/md_web_zari-cotton-saree-1.jpg",
+      "carousels/md_web_zari-cotton-saree-1/md_web_zari-cotton-saree-1_slide_01.jpg"
+    ],
+    "c70e32e51fad09a0824182b25c4e5082aa4574d52825f95b45e4374805b78710": [
+      "posts/images/md_web_zari-cotton-saree-38.jpg",
+      "carousels/md_web_zari-cotton-saree-38/md_web_zari-cotton-saree-38_slide_01.jpg"
+    ],
+    "cdbbfef934d0af6356ba2d741ccae9ab76084ad9e1fb059f7c1fc3c231b6777b": [
+      "posts/images/md_web_zari-cotton-saree.jpg",
+      "carousels/md_web_zari-cotton-saree/md_web_zari-cotton-saree_slide_01.jpg"
+    ],
+    "1d9f233b99d20e53fb62199658ab324ebb91faf0bb0a32c85e6aedc5d2c05da8": [
+      "posts/images/md_web_zari-cotton.jpg",
+      "carousels/md_web_zari-cotton/md_web_zari-cotton_slide_01.jpg"
+    ]
+  },
+  "diagnostics": {
+    "timestamp_utc": "2026-10-29T15:01:16.211710+00:00",
+    "target_username": "maheshdesigners_online_",
+    "target_url": "https://www.instagram.com/maheshdesigners_online_/",
+    "methods_attempted": [
+      {
+        "method": "Official Instagram Graph API",
+        "status": "skipped_no_token",
+        "detail": "Environment variables INSTAGRAM_ACCESS_TOKEN and INSTAGRAM_BUSINESS_ACCOUNT_ID not set."
+      },
+      {
+        "method": "Instaloader (Unauthenticated Public)",
+        "status": "failed_or_restricted",
+        "detail": "Instaloader extraction restricted or unreachable: ConnectionException: JSON Query to api/v1/users/web_profile_info/: 401 Unauthorized - \"fail\" status, message \"Please wait a few minutes before you try again.\" when accessing https://www.instagram.com/api/v1/users/web_profile_info/?username=maheshdesigners_online_"
+      },
+      {
+        "method": "Public Profile HTML (OpenGraph)",
+        "status": "fetched",
+        "detail": "Parsed public HTML meta tags."
+      },
+      {
+        "method": "Public web_profile_info JSON endpoint",
+        "status": "restricted_or_failed",
+        "detail": "Public web_profile_info endpoint restricted or unreachable (HTTPError: HTTP Error 401: Unauthorized)."
+      },
+      {
+        "method": "Instagram Public Profile Embed (/embed/)",
+        "status": "restricted_login_wall",
+        "detail": "Embed HTML did not expose unauthenticated contextJSON."
+      },
+      {
+        "method": "Official Website (Full Shopify Products Catalog /products.json?limit=250)",
+        "status": "success",
+        "detail": "Ingested 65 complete products with primary images in posts/images/ and multi-slide sets in carousels/."
+      },
+      {
+        "method": "Official Website Collections / Highlights (/collections.json)",
+        "status": "success",
+        "detail": "Extracted 15 collection categories and available highlight cover images."
+      },
+      {
+        "method": "Manual Import Inbox Fallback",
+        "status": "ready_awaiting_files",
+        "detail": "Inbox directory (manual_import_inbox) is empty; ready for owner-supplied files."
+      }
+    ],
+    "limitations_encountered": [
+      "Instaloader extraction restricted or unreachable: ConnectionException: JSON Query to api/v1/users/web_profile_info/: 401 Unauthorized - \"fail\" status, message \"Please wait a few minutes before you try again.\" when accessing https://www.instagram.com/api/v1/users/web_profile_info/?username=maheshdesigners_online_",
+      "Public web_profile_info endpoint restricted or unreachable (HTTPError: HTTP Error 401: Unauthorized)."
+    ],
+    "live_profile_accessible": false,
+    "live_posts_accessible": false,
+    "manual_fallback_items_ingested": 0
+  }
+}

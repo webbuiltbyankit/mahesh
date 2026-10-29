@@ -1,0 +1,2104 @@
+[
+  {
+    "productId": "MD-PROD-001",
+    "slug": "tussar-banaras-saree-001",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "TUSSAR BANARAS SAREE",
+    "displayTitle": "Tussar Banaras Saree",
+    "productCode": "SKU052MAUVAPUR",
+    "priceInr": 2795,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_tussar-banaras-saree-52.jpg",
+      "carousels/md_web_tussar-banaras-saree-52/md_web_tussar-banaras-saree-52_slide_01.jpg",
+      "carousels/md_web_tussar-banaras-saree-52/md_web_tussar-banaras-saree-52_slide_02.jpg",
+      "carousels/md_web_tussar-banaras-saree-52/md_web_tussar-banaras-saree-52_slide_03.jpg",
+      "carousels/md_web_tussar-banaras-saree-52/md_web_tussar-banaras-saree-52_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-001_01_lg.jpg",
+      "/assets/products/MD-PROD-001_02_lg.jpg",
+      "/assets/products/MD-PROD-001_03_lg.jpg",
+      "/assets/products/MD-PROD-001_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-001_01_card.jpg",
+      "/assets/products/MD-PROD-001_02_card.jpg",
+      "/assets/products/MD-PROD-001_03_card.jpg",
+      "/assets/products/MD-PROD-001_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-002",
+    "slug": "soft-tissue-saree-002",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SOFT TISSUE SAREE",
+    "displayTitle": "Soft Tissue Saree",
+    "productCode": "SKU051DRKPNK",
+    "priceInr": 1195,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_soft-tissue-saree-51.jpg",
+      "carousels/md_web_soft-tissue-saree-51/md_web_soft-tissue-saree-51_slide_01.jpg",
+      "carousels/md_web_soft-tissue-saree-51/md_web_soft-tissue-saree-51_slide_02.jpg",
+      "carousels/md_web_soft-tissue-saree-51/md_web_soft-tissue-saree-51_slide_03.jpg",
+      "carousels/md_web_soft-tissue-saree-51/md_web_soft-tissue-saree-51_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-002_01_lg.jpg",
+      "/assets/products/MD-PROD-002_02_lg.jpg",
+      "/assets/products/MD-PROD-002_03_lg.jpg",
+      "/assets/products/MD-PROD-002_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-002_01_card.jpg",
+      "/assets/products/MD-PROD-002_02_card.jpg",
+      "/assets/products/MD-PROD-002_03_card.jpg",
+      "/assets/products/MD-PROD-002_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-003",
+    "slug": "banarasi-tussar-saree-003",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "BANARASI TUSSAR SAREE",
+    "displayTitle": "Banarasi Tussar Saree",
+    "productCode": "SKU050BLU",
+    "priceInr": 2895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_banarasi-tussar-saree-50.jpg",
+      "carousels/md_web_banarasi-tussar-saree-50/md_web_banarasi-tussar-saree-50_slide_01.jpg",
+      "carousels/md_web_banarasi-tussar-saree-50/md_web_banarasi-tussar-saree-50_slide_02.jpg",
+      "carousels/md_web_banarasi-tussar-saree-50/md_web_banarasi-tussar-saree-50_slide_03.jpg",
+      "carousels/md_web_banarasi-tussar-saree-50/md_web_banarasi-tussar-saree-50_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-003_01_lg.jpg",
+      "/assets/products/MD-PROD-003_02_lg.jpg",
+      "/assets/products/MD-PROD-003_03_lg.jpg",
+      "/assets/products/MD-PROD-003_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-003_01_card.jpg",
+      "/assets/products/MD-PROD-003_02_card.jpg",
+      "/assets/products/MD-PROD-003_03_card.jpg",
+      "/assets/products/MD-PROD-003_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-004",
+    "slug": "banarasi-tussar-saree-004",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "BANARASI TUSSAR SAREE",
+    "displayTitle": "Banarasi Tussar Saree",
+    "productCode": "SKU049VIO",
+    "priceInr": 2995,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_banarasi-tussar-49.jpg",
+      "carousels/md_web_banarasi-tussar-49/md_web_banarasi-tussar-49_slide_01.jpg",
+      "carousels/md_web_banarasi-tussar-49/md_web_banarasi-tussar-49_slide_02.jpg",
+      "carousels/md_web_banarasi-tussar-49/md_web_banarasi-tussar-49_slide_03.jpg",
+      "carousels/md_web_banarasi-tussar-49/md_web_banarasi-tussar-49_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-004_01_lg.jpg",
+      "/assets/products/MD-PROD-004_02_lg.jpg",
+      "/assets/products/MD-PROD-004_03_lg.jpg",
+      "/assets/products/MD-PROD-004_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-004_01_card.jpg",
+      "/assets/products/MD-PROD-004_02_card.jpg",
+      "/assets/products/MD-PROD-004_03_card.jpg",
+      "/assets/products/MD-PROD-004_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-005",
+    "slug": "banarasi-tussar-saree-005",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "BANARASHI TUSSAR SAREE",
+    "displayTitle": "Banarasi Tussar Saree",
+    "productCode": "SKU048BLU",
+    "priceInr": 2695,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_banarashi-tussar-48.jpg",
+      "carousels/md_web_banarashi-tussar-48/md_web_banarashi-tussar-48_slide_01.jpg",
+      "carousels/md_web_banarashi-tussar-48/md_web_banarashi-tussar-48_slide_02.jpg",
+      "carousels/md_web_banarashi-tussar-48/md_web_banarashi-tussar-48_slide_03.jpg",
+      "carousels/md_web_banarashi-tussar-48/md_web_banarashi-tussar-48_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-005_01_lg.jpg",
+      "/assets/products/MD-PROD-005_02_lg.jpg",
+      "/assets/products/MD-PROD-005_03_lg.jpg",
+      "/assets/products/MD-PROD-005_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-005_01_card.jpg",
+      "/assets/products/MD-PROD-005_02_card.jpg",
+      "/assets/products/MD-PROD-005_03_card.jpg",
+      "/assets/products/MD-PROD-005_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-006",
+    "slug": "tussar-banarasi-saree-006",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "TUSSAR BANARASI SAREE",
+    "displayTitle": "Tussar Banarasi Saree",
+    "productCode": "SKU047SKYBLU",
+    "priceInr": 2895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_tussar-banarasi-saree-47.jpg",
+      "carousels/md_web_tussar-banarasi-saree-47/md_web_tussar-banarasi-saree-47_slide_01.jpg",
+      "carousels/md_web_tussar-banarasi-saree-47/md_web_tussar-banarasi-saree-47_slide_02.jpg",
+      "carousels/md_web_tussar-banarasi-saree-47/md_web_tussar-banarasi-saree-47_slide_03.jpg",
+      "carousels/md_web_tussar-banarasi-saree-47/md_web_tussar-banarasi-saree-47_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-006_01_lg.jpg",
+      "/assets/products/MD-PROD-006_02_lg.jpg",
+      "/assets/products/MD-PROD-006_03_lg.jpg",
+      "/assets/products/MD-PROD-006_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-006_01_card.jpg",
+      "/assets/products/MD-PROD-006_02_card.jpg",
+      "/assets/products/MD-PROD-006_03_card.jpg",
+      "/assets/products/MD-PROD-006_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-007",
+    "slug": "organza-saree-007",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "ORAGANZA SAREE",
+    "displayTitle": "Organza Saree",
+    "productCode": "SKU046PNK",
+    "priceInr": 2495,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_oraganza-46.jpg",
+      "carousels/md_web_oraganza-46/md_web_oraganza-46_slide_01.jpg",
+      "carousels/md_web_oraganza-46/md_web_oraganza-46_slide_02.jpg",
+      "carousels/md_web_oraganza-46/md_web_oraganza-46_slide_03.jpg",
+      "carousels/md_web_oraganza-46/md_web_oraganza-46_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-007_01_lg.jpg",
+      "/assets/products/MD-PROD-007_02_lg.jpg",
+      "/assets/products/MD-PROD-007_03_lg.jpg",
+      "/assets/products/MD-PROD-007_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-007_01_card.jpg",
+      "/assets/products/MD-PROD-007_02_card.jpg",
+      "/assets/products/MD-PROD-007_03_card.jpg",
+      "/assets/products/MD-PROD-007_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-008",
+    "slug": "soft-tissue-saree-008",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SOFT TISSUE SAREE",
+    "displayTitle": "Soft Tissue Saree",
+    "productCode": "SKU045PEACH",
+    "priceInr": 1675,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_soft-tissue-saree-45.jpg",
+      "carousels/md_web_soft-tissue-saree-45/md_web_soft-tissue-saree-45_slide_01.jpg",
+      "carousels/md_web_soft-tissue-saree-45/md_web_soft-tissue-saree-45_slide_02.jpg",
+      "carousels/md_web_soft-tissue-saree-45/md_web_soft-tissue-saree-45_slide_03.jpg",
+      "carousels/md_web_soft-tissue-saree-45/md_web_soft-tissue-saree-45_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-008_01_lg.jpg",
+      "/assets/products/MD-PROD-008_02_lg.jpg",
+      "/assets/products/MD-PROD-008_03_lg.jpg",
+      "/assets/products/MD-PROD-008_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-008_01_card.jpg",
+      "/assets/products/MD-PROD-008_02_card.jpg",
+      "/assets/products/MD-PROD-008_03_card.jpg",
+      "/assets/products/MD-PROD-008_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-009",
+    "slug": "chanderi-saree-009",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "CHANDERI SAREE",
+    "displayTitle": "Chanderi Saree",
+    "productCode": "SKU044DRKPNK",
+    "priceInr": 1495,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_chanderi-44.jpg",
+      "carousels/md_web_chanderi-44/md_web_chanderi-44_slide_01.jpg",
+      "carousels/md_web_chanderi-44/md_web_chanderi-44_slide_02.jpg",
+      "carousels/md_web_chanderi-44/md_web_chanderi-44_slide_03.jpg",
+      "carousels/md_web_chanderi-44/md_web_chanderi-44_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-009_01_lg.jpg",
+      "/assets/products/MD-PROD-009_02_lg.jpg",
+      "/assets/products/MD-PROD-009_03_lg.jpg",
+      "/assets/products/MD-PROD-009_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-009_01_card.jpg",
+      "/assets/products/MD-PROD-009_02_card.jpg",
+      "/assets/products/MD-PROD-009_03_card.jpg",
+      "/assets/products/MD-PROD-009_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-010",
+    "slug": "semi-banaras-saree-010",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SEMI BANARAS SAREE",
+    "displayTitle": "Semi Banaras Saree",
+    "productCode": "SKU043GRAY",
+    "priceInr": 2795,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_semi-banaras-saree-43.jpg",
+      "carousels/md_web_semi-banaras-saree-43/md_web_semi-banaras-saree-43_slide_01.jpg",
+      "carousels/md_web_semi-banaras-saree-43/md_web_semi-banaras-saree-43_slide_02.jpg",
+      "carousels/md_web_semi-banaras-saree-43/md_web_semi-banaras-saree-43_slide_03.jpg",
+      "carousels/md_web_semi-banaras-saree-43/md_web_semi-banaras-saree-43_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-010_01_lg.jpg",
+      "/assets/products/MD-PROD-010_02_lg.jpg",
+      "/assets/products/MD-PROD-010_03_lg.jpg",
+      "/assets/products/MD-PROD-010_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-010_01_card.jpg",
+      "/assets/products/MD-PROD-010_02_card.jpg",
+      "/assets/products/MD-PROD-010_03_card.jpg",
+      "/assets/products/MD-PROD-010_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-011",
+    "slug": "semi-banaras-saree-011",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SEMI BANARAS",
+    "displayTitle": "Semi Banaras Saree",
+    "productCode": "SKU042BLU",
+    "priceInr": 2795,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_semi-banaras-42.jpg",
+      "carousels/md_web_semi-banaras-42/md_web_semi-banaras-42_slide_01.jpg",
+      "carousels/md_web_semi-banaras-42/md_web_semi-banaras-42_slide_02.jpg",
+      "carousels/md_web_semi-banaras-42/md_web_semi-banaras-42_slide_03.jpg",
+      "carousels/md_web_semi-banaras-42/md_web_semi-banaras-42_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-011_01_lg.jpg",
+      "/assets/products/MD-PROD-011_02_lg.jpg",
+      "/assets/products/MD-PROD-011_03_lg.jpg",
+      "/assets/products/MD-PROD-011_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-011_01_card.jpg",
+      "/assets/products/MD-PROD-011_02_card.jpg",
+      "/assets/products/MD-PROD-011_03_card.jpg",
+      "/assets/products/MD-PROD-011_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-012",
+    "slug": "fancy-banaras-saree-012",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "FANCY BANARAS SAREE",
+    "displayTitle": "Fancy Banaras Saree",
+    "productCode": "SKU041PUR",
+    "priceInr": 2495,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_fancy-banaras-saree-41.jpg",
+      "carousels/md_web_fancy-banaras-saree-41/md_web_fancy-banaras-saree-41_slide_01.jpg",
+      "carousels/md_web_fancy-banaras-saree-41/md_web_fancy-banaras-saree-41_slide_02.jpg",
+      "carousels/md_web_fancy-banaras-saree-41/md_web_fancy-banaras-saree-41_slide_03.jpg",
+      "carousels/md_web_fancy-banaras-saree-41/md_web_fancy-banaras-saree-41_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-012_01_lg.jpg",
+      "/assets/products/MD-PROD-012_02_lg.jpg",
+      "/assets/products/MD-PROD-012_03_lg.jpg",
+      "/assets/products/MD-PROD-012_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-012_01_card.jpg",
+      "/assets/products/MD-PROD-012_02_card.jpg",
+      "/assets/products/MD-PROD-012_03_card.jpg",
+      "/assets/products/MD-PROD-012_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-013",
+    "slug": "jamdani-chanderi-saree-013",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "JAMDANI CHANDERI SAREE 40",
+    "displayTitle": "Jamdani Chanderi Saree",
+    "productCode": null,
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_jamdani-chanderi-saree.jpg",
+      "carousels/md_web_jamdani-chanderi-saree/md_web_jamdani-chanderi-saree_slide_01.jpg",
+      "carousels/md_web_jamdani-chanderi-saree/md_web_jamdani-chanderi-saree_slide_02.jpg",
+      "carousels/md_web_jamdani-chanderi-saree/md_web_jamdani-chanderi-saree_slide_03.jpg",
+      "carousels/md_web_jamdani-chanderi-saree/md_web_jamdani-chanderi-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-013_01_lg.jpg",
+      "/assets/products/MD-PROD-013_02_lg.jpg",
+      "/assets/products/MD-PROD-013_03_lg.jpg",
+      "/assets/products/MD-PROD-013_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-013_01_card.jpg",
+      "/assets/products/MD-PROD-013_02_card.jpg",
+      "/assets/products/MD-PROD-013_03_card.jpg",
+      "/assets/products/MD-PROD-013_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-014",
+    "slug": "mul-chanderi-saree-014",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "MUL CHANDERI SAREE",
+    "displayTitle": "Mul Chanderi Saree",
+    "productCode": "SKU039DRKPNK",
+    "priceInr": 1895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_mul-chanderi-saree-39.jpg",
+      "carousels/md_web_mul-chanderi-saree-39/md_web_mul-chanderi-saree-39_slide_01.jpg",
+      "carousels/md_web_mul-chanderi-saree-39/md_web_mul-chanderi-saree-39_slide_02.jpg",
+      "carousels/md_web_mul-chanderi-saree-39/md_web_mul-chanderi-saree-39_slide_03.jpg",
+      "carousels/md_web_mul-chanderi-saree-39/md_web_mul-chanderi-saree-39_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-014_01_lg.jpg",
+      "/assets/products/MD-PROD-014_02_lg.jpg",
+      "/assets/products/MD-PROD-014_03_lg.jpg",
+      "/assets/products/MD-PROD-014_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-014_01_card.jpg",
+      "/assets/products/MD-PROD-014_02_card.jpg",
+      "/assets/products/MD-PROD-014_03_card.jpg",
+      "/assets/products/MD-PROD-014_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-015",
+    "slug": "zari-cotton-saree-015",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "ZARI COTTON SAREE",
+    "displayTitle": "Zari Cotton Saree",
+    "productCode": "SKU038MOSGRN",
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_zari-cotton-saree-38.jpg",
+      "carousels/md_web_zari-cotton-saree-38/md_web_zari-cotton-saree-38_slide_01.jpg",
+      "carousels/md_web_zari-cotton-saree-38/md_web_zari-cotton-saree-38_slide_02.jpg",
+      "carousels/md_web_zari-cotton-saree-38/md_web_zari-cotton-saree-38_slide_03.jpg",
+      "carousels/md_web_zari-cotton-saree-38/md_web_zari-cotton-saree-38_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-015_01_lg.jpg",
+      "/assets/products/MD-PROD-015_02_lg.jpg",
+      "/assets/products/MD-PROD-015_03_lg.jpg",
+      "/assets/products/MD-PROD-015_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-015_01_card.jpg",
+      "/assets/products/MD-PROD-015_02_card.jpg",
+      "/assets/products/MD-PROD-015_03_card.jpg",
+      "/assets/products/MD-PROD-015_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-016",
+    "slug": "zari-cotton-saree-016",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "ZARI COTTON SAREE",
+    "displayTitle": "Zari Cotton Saree",
+    "productCode": "SKU037ORN",
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_zari-cotton-saree-1.jpg",
+      "carousels/md_web_zari-cotton-saree-1/md_web_zari-cotton-saree-1_slide_01.jpg",
+      "carousels/md_web_zari-cotton-saree-1/md_web_zari-cotton-saree-1_slide_02.jpg",
+      "carousels/md_web_zari-cotton-saree-1/md_web_zari-cotton-saree-1_slide_03.jpg",
+      "carousels/md_web_zari-cotton-saree-1/md_web_zari-cotton-saree-1_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-016_01_lg.jpg",
+      "/assets/products/MD-PROD-016_02_lg.jpg",
+      "/assets/products/MD-PROD-016_03_lg.jpg",
+      "/assets/products/MD-PROD-016_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-016_01_card.jpg",
+      "/assets/products/MD-PROD-016_02_card.jpg",
+      "/assets/products/MD-PROD-016_03_card.jpg",
+      "/assets/products/MD-PROD-016_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-017",
+    "slug": "tussar-saree-017",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "TUSSAR SAREE",
+    "displayTitle": "Tussar Saree",
+    "productCode": "SKU036PUR",
+    "priceInr": 1795,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_tussar-saree-1.jpg",
+      "carousels/md_web_tussar-saree-1/md_web_tussar-saree-1_slide_01.jpg",
+      "carousels/md_web_tussar-saree-1/md_web_tussar-saree-1_slide_02.jpg",
+      "carousels/md_web_tussar-saree-1/md_web_tussar-saree-1_slide_03.jpg",
+      "carousels/md_web_tussar-saree-1/md_web_tussar-saree-1_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-017_01_lg.jpg",
+      "/assets/products/MD-PROD-017_02_lg.jpg",
+      "/assets/products/MD-PROD-017_03_lg.jpg",
+      "/assets/products/MD-PROD-017_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-017_01_card.jpg",
+      "/assets/products/MD-PROD-017_02_card.jpg",
+      "/assets/products/MD-PROD-017_03_card.jpg",
+      "/assets/products/MD-PROD-017_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-018",
+    "slug": "jute-cotton-saree-018",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "JUTE COTTON SAREE",
+    "displayTitle": "Jute Cotton Saree",
+    "productCode": "SKU035PNK",
+    "priceInr": 1795,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_jute-cotton-saree.jpg",
+      "carousels/md_web_jute-cotton-saree/md_web_jute-cotton-saree_slide_01.jpg",
+      "carousels/md_web_jute-cotton-saree/md_web_jute-cotton-saree_slide_02.jpg",
+      "carousels/md_web_jute-cotton-saree/md_web_jute-cotton-saree_slide_03.jpg",
+      "carousels/md_web_jute-cotton-saree/md_web_jute-cotton-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-018_01_lg.jpg",
+      "/assets/products/MD-PROD-018_02_lg.jpg",
+      "/assets/products/MD-PROD-018_03_lg.jpg",
+      "/assets/products/MD-PROD-018_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-018_01_card.jpg",
+      "/assets/products/MD-PROD-018_02_card.jpg",
+      "/assets/products/MD-PROD-018_03_card.jpg",
+      "/assets/products/MD-PROD-018_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-019",
+    "slug": "paper-tussar-saree-019",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "PAPER TUSSAR SAREE",
+    "displayTitle": "Paper Tussar Saree",
+    "productCode": "SKU034PUR",
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_paper-tussar-saree-1.jpg",
+      "carousels/md_web_paper-tussar-saree-1/md_web_paper-tussar-saree-1_slide_01.jpg",
+      "carousels/md_web_paper-tussar-saree-1/md_web_paper-tussar-saree-1_slide_02.jpg",
+      "carousels/md_web_paper-tussar-saree-1/md_web_paper-tussar-saree-1_slide_03.jpg",
+      "carousels/md_web_paper-tussar-saree-1/md_web_paper-tussar-saree-1_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-019_01_lg.jpg",
+      "/assets/products/MD-PROD-019_02_lg.jpg",
+      "/assets/products/MD-PROD-019_03_lg.jpg",
+      "/assets/products/MD-PROD-019_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-019_01_card.jpg",
+      "/assets/products/MD-PROD-019_02_card.jpg",
+      "/assets/products/MD-PROD-019_03_card.jpg",
+      "/assets/products/MD-PROD-019_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-020",
+    "slug": "slub-cotton-saree-020",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SLUP COTTON",
+    "displayTitle": "Slub Cotton Saree",
+    "productCode": "SKU033PUR",
+    "priceInr": 2295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_slup-cotton.jpg",
+      "carousels/md_web_slup-cotton/md_web_slup-cotton_slide_01.jpg",
+      "carousels/md_web_slup-cotton/md_web_slup-cotton_slide_02.jpg",
+      "carousels/md_web_slup-cotton/md_web_slup-cotton_slide_03.jpg",
+      "carousels/md_web_slup-cotton/md_web_slup-cotton_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-020_01_lg.jpg",
+      "/assets/products/MD-PROD-020_02_lg.jpg",
+      "/assets/products/MD-PROD-020_03_lg.jpg",
+      "/assets/products/MD-PROD-020_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-020_01_card.jpg",
+      "/assets/products/MD-PROD-020_02_card.jpg",
+      "/assets/products/MD-PROD-020_03_card.jpg",
+      "/assets/products/MD-PROD-020_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-021",
+    "slug": "semi-raw-silk-saree-021",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SEMI RAW SILK",
+    "displayTitle": "Semi Raw Silk Saree",
+    "productCode": "SKU032GRN",
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_semi-raw-silk.jpg",
+      "carousels/md_web_semi-raw-silk/md_web_semi-raw-silk_slide_01.jpg",
+      "carousels/md_web_semi-raw-silk/md_web_semi-raw-silk_slide_02.jpg",
+      "carousels/md_web_semi-raw-silk/md_web_semi-raw-silk_slide_03.jpg",
+      "carousels/md_web_semi-raw-silk/md_web_semi-raw-silk_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-021_01_lg.jpg",
+      "/assets/products/MD-PROD-021_02_lg.jpg",
+      "/assets/products/MD-PROD-021_03_lg.jpg",
+      "/assets/products/MD-PROD-021_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-021_01_card.jpg",
+      "/assets/products/MD-PROD-021_02_card.jpg",
+      "/assets/products/MD-PROD-021_03_card.jpg",
+      "/assets/products/MD-PROD-021_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-022",
+    "slug": "fancy-saree-022",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "FANCY SAREE",
+    "displayTitle": "Fancy Saree",
+    "productCode": "SKU031BRONZE",
+    "priceInr": 1750,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_fancy-saree.jpg",
+      "carousels/md_web_fancy-saree/md_web_fancy-saree_slide_01.jpg",
+      "carousels/md_web_fancy-saree/md_web_fancy-saree_slide_02.jpg",
+      "carousels/md_web_fancy-saree/md_web_fancy-saree_slide_03.jpg",
+      "carousels/md_web_fancy-saree/md_web_fancy-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-022_01_lg.jpg",
+      "/assets/products/MD-PROD-022_02_lg.jpg",
+      "/assets/products/MD-PROD-022_03_lg.jpg",
+      "/assets/products/MD-PROD-022_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-022_01_card.jpg",
+      "/assets/products/MD-PROD-022_02_card.jpg",
+      "/assets/products/MD-PROD-022_03_card.jpg",
+      "/assets/products/MD-PROD-022_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-023",
+    "slug": "paper-tussar-saree-023",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "PAPER TUSSAR SAREE",
+    "displayTitle": "Paper Tussar Saree",
+    "productCode": "SKU030MUS",
+    "priceInr": 1795,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_paper-tussar-saree.jpg",
+      "carousels/md_web_paper-tussar-saree/md_web_paper-tussar-saree_slide_01.jpg",
+      "carousels/md_web_paper-tussar-saree/md_web_paper-tussar-saree_slide_02.jpg",
+      "carousels/md_web_paper-tussar-saree/md_web_paper-tussar-saree_slide_03.jpg",
+      "carousels/md_web_paper-tussar-saree/md_web_paper-tussar-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-023_01_lg.jpg",
+      "/assets/products/MD-PROD-023_02_lg.jpg",
+      "/assets/products/MD-PROD-023_03_lg.jpg",
+      "/assets/products/MD-PROD-023_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-023_01_card.jpg",
+      "/assets/products/MD-PROD-023_02_card.jpg",
+      "/assets/products/MD-PROD-023_03_card.jpg",
+      "/assets/products/MD-PROD-023_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-024",
+    "slug": "cotton-saree-024",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "COTTON SAREE",
+    "displayTitle": "Cotton Saree",
+    "productCode": "SKU029PNK",
+    "priceInr": 1795,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_cotton-saree.jpg",
+      "carousels/md_web_cotton-saree/md_web_cotton-saree_slide_01.jpg",
+      "carousels/md_web_cotton-saree/md_web_cotton-saree_slide_02.jpg",
+      "carousels/md_web_cotton-saree/md_web_cotton-saree_slide_03.jpg",
+      "carousels/md_web_cotton-saree/md_web_cotton-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-024_01_lg.jpg",
+      "/assets/products/MD-PROD-024_02_lg.jpg",
+      "/assets/products/MD-PROD-024_03_lg.jpg",
+      "/assets/products/MD-PROD-024_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-024_01_card.jpg",
+      "/assets/products/MD-PROD-024_02_card.jpg",
+      "/assets/products/MD-PROD-024_03_card.jpg",
+      "/assets/products/MD-PROD-024_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-025",
+    "slug": "zari-cotton-saree-025",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "ZARI COTTON SAREE",
+    "displayTitle": "Zari Cotton Saree",
+    "productCode": "SKU028GRN",
+    "priceInr": 1895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_zari-cotton-saree.jpg",
+      "carousels/md_web_zari-cotton-saree/md_web_zari-cotton-saree_slide_01.jpg",
+      "carousels/md_web_zari-cotton-saree/md_web_zari-cotton-saree_slide_02.jpg",
+      "carousels/md_web_zari-cotton-saree/md_web_zari-cotton-saree_slide_03.jpg",
+      "carousels/md_web_zari-cotton-saree/md_web_zari-cotton-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-025_01_lg.jpg",
+      "/assets/products/MD-PROD-025_02_lg.jpg",
+      "/assets/products/MD-PROD-025_03_lg.jpg",
+      "/assets/products/MD-PROD-025_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-025_01_card.jpg",
+      "/assets/products/MD-PROD-025_02_card.jpg",
+      "/assets/products/MD-PROD-025_03_card.jpg",
+      "/assets/products/MD-PROD-025_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-026",
+    "slug": "kota-saree-026",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "KOTA SAREE",
+    "displayTitle": "Kota Saree",
+    "productCode": "SKU027LITE",
+    "priceInr": 2495,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_kota-saree.jpg",
+      "carousels/md_web_kota-saree/md_web_kota-saree_slide_01.jpg",
+      "carousels/md_web_kota-saree/md_web_kota-saree_slide_02.jpg",
+      "carousels/md_web_kota-saree/md_web_kota-saree_slide_03.jpg",
+      "carousels/md_web_kota-saree/md_web_kota-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-026_01_lg.jpg",
+      "/assets/products/MD-PROD-026_02_lg.jpg",
+      "/assets/products/MD-PROD-026_03_lg.jpg",
+      "/assets/products/MD-PROD-026_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-026_01_card.jpg",
+      "/assets/products/MD-PROD-026_02_card.jpg",
+      "/assets/products/MD-PROD-026_03_card.jpg",
+      "/assets/products/MD-PROD-026_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-027",
+    "slug": "fancy-banaras-saree-027",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "FANCY BANARAS SAREE",
+    "displayTitle": "Fancy Banaras Saree",
+    "productCode": "SKU026PUR",
+    "priceInr": 2795,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_fancy-banaras-saree.jpg",
+      "carousels/md_web_fancy-banaras-saree/md_web_fancy-banaras-saree_slide_01.jpg",
+      "carousels/md_web_fancy-banaras-saree/md_web_fancy-banaras-saree_slide_02.jpg",
+      "carousels/md_web_fancy-banaras-saree/md_web_fancy-banaras-saree_slide_03.jpg",
+      "carousels/md_web_fancy-banaras-saree/md_web_fancy-banaras-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-027_01_lg.jpg",
+      "/assets/products/MD-PROD-027_02_lg.jpg",
+      "/assets/products/MD-PROD-027_03_lg.jpg",
+      "/assets/products/MD-PROD-027_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-027_01_card.jpg",
+      "/assets/products/MD-PROD-027_02_card.jpg",
+      "/assets/products/MD-PROD-027_03_card.jpg",
+      "/assets/products/MD-PROD-027_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-028",
+    "slug": "jute-cotton-saree-028",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "JUTE COTTON SAREE",
+    "displayTitle": "Jute Cotton Saree",
+    "productCode": "SKU025SKYBLU",
+    "priceInr": 1195,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_jute-cotton.jpg",
+      "carousels/md_web_jute-cotton/md_web_jute-cotton_slide_01.jpg",
+      "carousels/md_web_jute-cotton/md_web_jute-cotton_slide_02.jpg",
+      "carousels/md_web_jute-cotton/md_web_jute-cotton_slide_03.jpg",
+      "carousels/md_web_jute-cotton/md_web_jute-cotton_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-028_01_lg.jpg",
+      "/assets/products/MD-PROD-028_02_lg.jpg",
+      "/assets/products/MD-PROD-028_03_lg.jpg",
+      "/assets/products/MD-PROD-028_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-028_01_card.jpg",
+      "/assets/products/MD-PROD-028_02_card.jpg",
+      "/assets/products/MD-PROD-028_03_card.jpg",
+      "/assets/products/MD-PROD-028_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-029",
+    "slug": "fancy-banaras-saree-029",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "FANCY BANARAS SAREE",
+    "displayTitle": "Fancy Banaras Saree",
+    "productCode": "SKU024GREY",
+    "priceInr": 2595,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_fancy-banaras.jpg",
+      "carousels/md_web_fancy-banaras/md_web_fancy-banaras_slide_01.jpg",
+      "carousels/md_web_fancy-banaras/md_web_fancy-banaras_slide_02.jpg",
+      "carousels/md_web_fancy-banaras/md_web_fancy-banaras_slide_03.jpg",
+      "carousels/md_web_fancy-banaras/md_web_fancy-banaras_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-029_01_lg.jpg",
+      "/assets/products/MD-PROD-029_02_lg.jpg",
+      "/assets/products/MD-PROD-029_03_lg.jpg",
+      "/assets/products/MD-PROD-029_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-029_01_card.jpg",
+      "/assets/products/MD-PROD-029_02_card.jpg",
+      "/assets/products/MD-PROD-029_03_card.jpg",
+      "/assets/products/MD-PROD-029_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-030",
+    "slug": "chappa-silk-saree-030",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "CHAPPA SILK SAREE",
+    "displayTitle": "Chappa Silk Saree",
+    "productCode": "SKU022GOLYEL",
+    "priceInr": 2095,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_saree-3.jpg",
+      "carousels/md_web_saree-3/md_web_saree-3_slide_01.jpg",
+      "carousels/md_web_saree-3/md_web_saree-3_slide_02.jpg",
+      "carousels/md_web_saree-3/md_web_saree-3_slide_03.jpg",
+      "carousels/md_web_saree-3/md_web_saree-3_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-030_01_lg.jpg",
+      "/assets/products/MD-PROD-030_02_lg.jpg",
+      "/assets/products/MD-PROD-030_03_lg.jpg",
+      "/assets/products/MD-PROD-030_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-030_01_card.jpg",
+      "/assets/products/MD-PROD-030_02_card.jpg",
+      "/assets/products/MD-PROD-030_03_card.jpg",
+      "/assets/products/MD-PROD-030_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-031",
+    "slug": "chanderi-cotton-saree-031",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "CHANDERI COTTON SAREE",
+    "displayTitle": "Chanderi Cotton Saree",
+    "productCode": "SKU021MOSGRN",
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_saree-2.jpg",
+      "carousels/md_web_saree-2/md_web_saree-2_slide_01.jpg",
+      "carousels/md_web_saree-2/md_web_saree-2_slide_02.jpg",
+      "carousels/md_web_saree-2/md_web_saree-2_slide_03.jpg",
+      "carousels/md_web_saree-2/md_web_saree-2_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-031_01_lg.jpg",
+      "/assets/products/MD-PROD-031_02_lg.jpg",
+      "/assets/products/MD-PROD-031_03_lg.jpg",
+      "/assets/products/MD-PROD-031_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-031_01_card.jpg",
+      "/assets/products/MD-PROD-031_02_card.jpg",
+      "/assets/products/MD-PROD-031_03_card.jpg",
+      "/assets/products/MD-PROD-031_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-032",
+    "slug": "tussar-silk-saree-032",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "TUSSAR",
+    "displayTitle": "Tussar Silk Saree",
+    "productCode": "SKU020PUR",
+    "priceInr": 2195,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_tussar.jpg",
+      "carousels/md_web_tussar/md_web_tussar_slide_01.jpg",
+      "carousels/md_web_tussar/md_web_tussar_slide_02.jpg",
+      "carousels/md_web_tussar/md_web_tussar_slide_03.jpg",
+      "carousels/md_web_tussar/md_web_tussar_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-032_01_lg.jpg",
+      "/assets/products/MD-PROD-032_02_lg.jpg",
+      "/assets/products/MD-PROD-032_03_lg.jpg",
+      "/assets/products/MD-PROD-032_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-032_01_card.jpg",
+      "/assets/products/MD-PROD-032_02_card.jpg",
+      "/assets/products/MD-PROD-032_03_card.jpg",
+      "/assets/products/MD-PROD-032_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-033",
+    "slug": "kota-doria-saree-033",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "kotta doria",
+    "displayTitle": "Kota Doria Saree",
+    "productCode": "SKU019MOSGRN",
+    "priceInr": 1895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_kotta-doria.jpg",
+      "carousels/md_web_kotta-doria/md_web_kotta-doria_slide_01.jpg",
+      "carousels/md_web_kotta-doria/md_web_kotta-doria_slide_02.jpg",
+      "carousels/md_web_kotta-doria/md_web_kotta-doria_slide_03.jpg",
+      "carousels/md_web_kotta-doria/md_web_kotta-doria_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-033_01_lg.jpg",
+      "/assets/products/MD-PROD-033_02_lg.jpg",
+      "/assets/products/MD-PROD-033_03_lg.jpg",
+      "/assets/products/MD-PROD-033_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-033_01_card.jpg",
+      "/assets/products/MD-PROD-033_02_card.jpg",
+      "/assets/products/MD-PROD-033_03_card.jpg",
+      "/assets/products/MD-PROD-033_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-034",
+    "slug": "jamdani-cotton-saree-034",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "JAMDANI COTTON SAREE",
+    "displayTitle": "Jamdani Cotton Saree",
+    "productCode": "SKU018DRKPNK",
+    "priceInr": 1495,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_saree-1.jpg",
+      "carousels/md_web_saree-1/md_web_saree-1_slide_01.jpg",
+      "carousels/md_web_saree-1/md_web_saree-1_slide_02.jpg",
+      "carousels/md_web_saree-1/md_web_saree-1_slide_03.jpg",
+      "carousels/md_web_saree-1/md_web_saree-1_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-034_01_lg.jpg",
+      "/assets/products/MD-PROD-034_02_lg.jpg",
+      "/assets/products/MD-PROD-034_03_lg.jpg",
+      "/assets/products/MD-PROD-034_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-034_01_card.jpg",
+      "/assets/products/MD-PROD-034_02_card.jpg",
+      "/assets/products/MD-PROD-034_03_card.jpg",
+      "/assets/products/MD-PROD-034_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-035",
+    "slug": "tissue-cotton-saree-035",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "TISSUE COTTON SAREE",
+    "displayTitle": "Tissue Cotton Saree",
+    "productCode": "SKU023MOSSGRN",
+    "priceInr": 2495,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_saree.jpg",
+      "carousels/md_web_saree/md_web_saree_slide_01.jpg",
+      "carousels/md_web_saree/md_web_saree_slide_02.jpg",
+      "carousels/md_web_saree/md_web_saree_slide_03.jpg",
+      "carousels/md_web_saree/md_web_saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-035_01_lg.jpg",
+      "/assets/products/MD-PROD-035_02_lg.jpg",
+      "/assets/products/MD-PROD-035_03_lg.jpg",
+      "/assets/products/MD-PROD-035_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-035_01_card.jpg",
+      "/assets/products/MD-PROD-035_02_card.jpg",
+      "/assets/products/MD-PROD-035_03_card.jpg",
+      "/assets/products/MD-PROD-035_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-036",
+    "slug": "soft-banarasi-saree-036",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SOFT BANARASI",
+    "displayTitle": "Soft Banarasi Saree",
+    "productCode": "SKU017BLU",
+    "priceInr": 3295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_soft-banarasi.jpg",
+      "carousels/md_web_soft-banarasi/md_web_soft-banarasi_slide_01.jpg",
+      "carousels/md_web_soft-banarasi/md_web_soft-banarasi_slide_02.jpg",
+      "carousels/md_web_soft-banarasi/md_web_soft-banarasi_slide_03.jpg",
+      "carousels/md_web_soft-banarasi/md_web_soft-banarasi_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-036_01_lg.jpg",
+      "/assets/products/MD-PROD-036_02_lg.jpg",
+      "/assets/products/MD-PROD-036_03_lg.jpg",
+      "/assets/products/MD-PROD-036_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-036_01_card.jpg",
+      "/assets/products/MD-PROD-036_02_card.jpg",
+      "/assets/products/MD-PROD-036_03_card.jpg",
+      "/assets/products/MD-PROD-036_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-037",
+    "slug": "tussar-saree-037",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "TUSSAR SAREE",
+    "displayTitle": "Tussar Saree",
+    "productCode": "SKU016BLU",
+    "priceInr": 2695,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_tussar-saree.jpg",
+      "carousels/md_web_tussar-saree/md_web_tussar-saree_slide_01.jpg",
+      "carousels/md_web_tussar-saree/md_web_tussar-saree_slide_02.jpg",
+      "carousels/md_web_tussar-saree/md_web_tussar-saree_slide_03.jpg",
+      "carousels/md_web_tussar-saree/md_web_tussar-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-037_01_lg.jpg",
+      "/assets/products/MD-PROD-037_02_lg.jpg",
+      "/assets/products/MD-PROD-037_03_lg.jpg",
+      "/assets/products/MD-PROD-037_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-037_01_card.jpg",
+      "/assets/products/MD-PROD-037_02_card.jpg",
+      "/assets/products/MD-PROD-037_03_card.jpg",
+      "/assets/products/MD-PROD-037_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-038",
+    "slug": "zari-cotton-saree-038",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "ZARI COTTON",
+    "displayTitle": "Zari Cotton Saree",
+    "productCode": "SKU015ONIPNK",
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_zari-cotton.jpg",
+      "carousels/md_web_zari-cotton/md_web_zari-cotton_slide_01.jpg",
+      "carousels/md_web_zari-cotton/md_web_zari-cotton_slide_02.jpg",
+      "carousels/md_web_zari-cotton/md_web_zari-cotton_slide_03.jpg",
+      "carousels/md_web_zari-cotton/md_web_zari-cotton_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-038_01_lg.jpg",
+      "/assets/products/MD-PROD-038_02_lg.jpg",
+      "/assets/products/MD-PROD-038_03_lg.jpg",
+      "/assets/products/MD-PROD-038_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-038_01_card.jpg",
+      "/assets/products/MD-PROD-038_02_card.jpg",
+      "/assets/products/MD-PROD-038_03_card.jpg",
+      "/assets/products/MD-PROD-038_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-039",
+    "slug": "jute-saree-039",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "JUTE SAREE",
+    "displayTitle": "Jute Saree",
+    "productCode": "SKU014PEACH",
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_jute-saree-2.jpg",
+      "carousels/md_web_jute-saree-2/md_web_jute-saree-2_slide_01.jpg",
+      "carousels/md_web_jute-saree-2/md_web_jute-saree-2_slide_02.jpg",
+      "carousels/md_web_jute-saree-2/md_web_jute-saree-2_slide_03.jpg",
+      "carousels/md_web_jute-saree-2/md_web_jute-saree-2_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-039_01_lg.jpg",
+      "/assets/products/MD-PROD-039_02_lg.jpg",
+      "/assets/products/MD-PROD-039_03_lg.jpg",
+      "/assets/products/MD-PROD-039_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-039_01_card.jpg",
+      "/assets/products/MD-PROD-039_02_card.jpg",
+      "/assets/products/MD-PROD-039_03_card.jpg",
+      "/assets/products/MD-PROD-039_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-040",
+    "slug": "jute-tussar-saree-040",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "JUTE TUSSAR",
+    "displayTitle": "Jute Tussar Saree",
+    "productCode": "SKU013MOSGRN",
+    "priceInr": 1395,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_jute-tussar.jpg",
+      "carousels/md_web_jute-tussar/md_web_jute-tussar_slide_01.jpg",
+      "carousels/md_web_jute-tussar/md_web_jute-tussar_slide_02.jpg",
+      "carousels/md_web_jute-tussar/md_web_jute-tussar_slide_03.jpg",
+      "carousels/md_web_jute-tussar/md_web_jute-tussar_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-040_01_lg.jpg",
+      "/assets/products/MD-PROD-040_02_lg.jpg",
+      "/assets/products/MD-PROD-040_03_lg.jpg",
+      "/assets/products/MD-PROD-040_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-040_01_card.jpg",
+      "/assets/products/MD-PROD-040_02_card.jpg",
+      "/assets/products/MD-PROD-040_03_card.jpg",
+      "/assets/products/MD-PROD-040_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-041",
+    "slug": "testing-041",
+    "status": "quarantined",
+    "statusReason": "Quarantined storefront test entry ('Testing', ₹9900.00).",
+    "sourceTitle": "Testing",
+    "displayTitle": "Testing",
+    "productCode": null,
+    "priceInr": 9900,
+    "primaryCategory": null,
+    "rawMediaCount": 1,
+    "uniqueMediaCount": 1,
+    "sourceMediaPaths": [
+      "posts/images/md_web_testing.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-041_01_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-041_01_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-042",
+    "slug": "slub-cotton-saree-042",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SLUP COTTON SAREE",
+    "displayTitle": "Slub Cotton Saree",
+    "productCode": "SKU012DEPWINE",
+    "priceInr": 1095,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_slup-cotton-saree.jpg",
+      "carousels/md_web_slup-cotton-saree/md_web_slup-cotton-saree_slide_01.jpg",
+      "carousels/md_web_slup-cotton-saree/md_web_slup-cotton-saree_slide_02.jpg",
+      "carousels/md_web_slup-cotton-saree/md_web_slup-cotton-saree_slide_03.jpg",
+      "carousels/md_web_slup-cotton-saree/md_web_slup-cotton-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-042_01_lg.jpg",
+      "/assets/products/MD-PROD-042_02_lg.jpg",
+      "/assets/products/MD-PROD-042_03_lg.jpg",
+      "/assets/products/MD-PROD-042_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-042_01_card.jpg",
+      "/assets/products/MD-PROD-042_02_card.jpg",
+      "/assets/products/MD-PROD-042_03_card.jpg",
+      "/assets/products/MD-PROD-042_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-043",
+    "slug": "jute-saree-043",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "JUTE SAREE",
+    "displayTitle": "Jute Saree",
+    "productCode": "SKU011DRKPNK",
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_jute-saree-1.jpg",
+      "carousels/md_web_jute-saree-1/md_web_jute-saree-1_slide_01.jpg",
+      "carousels/md_web_jute-saree-1/md_web_jute-saree-1_slide_02.jpg",
+      "carousels/md_web_jute-saree-1/md_web_jute-saree-1_slide_03.jpg",
+      "carousels/md_web_jute-saree-1/md_web_jute-saree-1_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-043_01_lg.jpg",
+      "/assets/products/MD-PROD-043_02_lg.jpg",
+      "/assets/products/MD-PROD-043_03_lg.jpg",
+      "/assets/products/MD-PROD-043_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-043_01_card.jpg",
+      "/assets/products/MD-PROD-043_02_card.jpg",
+      "/assets/products/MD-PROD-043_03_card.jpg",
+      "/assets/products/MD-PROD-043_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-044",
+    "slug": "wedding-collection-combo-044",
+    "status": "quarantined",
+    "statusReason": "Quarantined unverified combo entry ('Wedding Collection Combo', ₹1140.00) lacking category/fabric metadata.",
+    "sourceTitle": "Wedding Collection Combo",
+    "displayTitle": "Wedding Collection Combo",
+    "productCode": null,
+    "priceInr": 1140,
+    "primaryCategory": null,
+    "rawMediaCount": 1,
+    "uniqueMediaCount": 1,
+    "sourceMediaPaths": [
+      "posts/images/md_web_wedding-collection-combo.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-044_01_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-044_01_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-045",
+    "slug": "fancy-cotton-saree-045",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "FANCY COTTON",
+    "displayTitle": "Fancy Cotton Saree",
+    "productCode": "SKU010MOSGRN",
+    "priceInr": 1295,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_fancy-cotton.jpg",
+      "carousels/md_web_fancy-cotton/md_web_fancy-cotton_slide_01.jpg",
+      "carousels/md_web_fancy-cotton/md_web_fancy-cotton_slide_02.jpg",
+      "carousels/md_web_fancy-cotton/md_web_fancy-cotton_slide_03.jpg",
+      "carousels/md_web_fancy-cotton/md_web_fancy-cotton_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-045_01_lg.jpg",
+      "/assets/products/MD-PROD-045_02_lg.jpg",
+      "/assets/products/MD-PROD-045_03_lg.jpg",
+      "/assets/products/MD-PROD-045_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-045_01_card.jpg",
+      "/assets/products/MD-PROD-045_02_card.jpg",
+      "/assets/products/MD-PROD-045_03_card.jpg",
+      "/assets/products/MD-PROD-045_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-046",
+    "slug": "tissue-linen-saree-046",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "TISSUE LINEN SAREE",
+    "displayTitle": "Tissue Linen Saree",
+    "productCode": "SKU009MOSGRN",
+    "priceInr": 1895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_tissue-linen-saree.jpg",
+      "carousels/md_web_tissue-linen-saree/md_web_tissue-linen-saree_slide_01.jpg",
+      "carousels/md_web_tissue-linen-saree/md_web_tissue-linen-saree_slide_02.jpg",
+      "carousels/md_web_tissue-linen-saree/md_web_tissue-linen-saree_slide_03.jpg",
+      "carousels/md_web_tissue-linen-saree/md_web_tissue-linen-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-046_01_lg.jpg",
+      "/assets/products/MD-PROD-046_02_lg.jpg",
+      "/assets/products/MD-PROD-046_03_lg.jpg",
+      "/assets/products/MD-PROD-046_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-046_01_card.jpg",
+      "/assets/products/MD-PROD-046_02_card.jpg",
+      "/assets/products/MD-PROD-046_03_card.jpg",
+      "/assets/products/MD-PROD-046_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-047",
+    "slug": "banaras-checked-saree-047",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "BANARAS SAREE CHECKED",
+    "displayTitle": "Banaras Checked Saree",
+    "productCode": "SKU008",
+    "priceInr": 1095,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_banaras-saree-checked.jpg",
+      "carousels/md_web_banaras-saree-checked/md_web_banaras-saree-checked_slide_01.jpg",
+      "carousels/md_web_banaras-saree-checked/md_web_banaras-saree-checked_slide_02.jpg",
+      "carousels/md_web_banaras-saree-checked/md_web_banaras-saree-checked_slide_03.jpg",
+      "carousels/md_web_banaras-saree-checked/md_web_banaras-saree-checked_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-047_01_lg.jpg",
+      "/assets/products/MD-PROD-047_02_lg.jpg",
+      "/assets/products/MD-PROD-047_03_lg.jpg",
+      "/assets/products/MD-PROD-047_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-047_01_card.jpg",
+      "/assets/products/MD-PROD-047_02_card.jpg",
+      "/assets/products/MD-PROD-047_03_card.jpg",
+      "/assets/products/MD-PROD-047_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-048",
+    "slug": "banaras-checked-saree-048",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "BANARAS CHECKED SAREE",
+    "displayTitle": "Banaras Checked Saree",
+    "productCode": "SKU007BLU",
+    "priceInr": 1895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_banaras-saree-1.jpg",
+      "carousels/md_web_banaras-saree-1/md_web_banaras-saree-1_slide_01.jpg",
+      "carousels/md_web_banaras-saree-1/md_web_banaras-saree-1_slide_02.jpg",
+      "carousels/md_web_banaras-saree-1/md_web_banaras-saree-1_slide_03.jpg",
+      "carousels/md_web_banaras-saree-1/md_web_banaras-saree-1_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-048_01_lg.jpg",
+      "/assets/products/MD-PROD-048_02_lg.jpg",
+      "/assets/products/MD-PROD-048_03_lg.jpg",
+      "/assets/products/MD-PROD-048_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-048_01_card.jpg",
+      "/assets/products/MD-PROD-048_02_card.jpg",
+      "/assets/products/MD-PROD-048_03_card.jpg",
+      "/assets/products/MD-PROD-048_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-049",
+    "slug": "banaras-brocade-fabric-049",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "BANARAS FABRIC",
+    "displayTitle": "Banaras Brocade Fabric",
+    "productCode": "SKU010",
+    "priceInr": 545,
+    "primaryCategory": "fabrics",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_banaras-fabric.jpg",
+      "carousels/md_web_banaras-fabric/md_web_banaras-fabric_slide_01.jpg",
+      "carousels/md_web_banaras-fabric/md_web_banaras-fabric_slide_02.jpg",
+      "carousels/md_web_banaras-fabric/md_web_banaras-fabric_slide_03.jpg",
+      "carousels/md_web_banaras-fabric/md_web_banaras-fabric_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-049_01_lg.jpg",
+      "/assets/products/MD-PROD-049_02_lg.jpg",
+      "/assets/products/MD-PROD-049_03_lg.jpg",
+      "/assets/products/MD-PROD-049_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-049_01_card.jpg",
+      "/assets/products/MD-PROD-049_02_card.jpg",
+      "/assets/products/MD-PROD-049_03_card.jpg",
+      "/assets/products/MD-PROD-049_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-050",
+    "slug": "sana-silk-fabric-050",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SANA SILK FABRIC",
+    "displayTitle": "Sana Silk Fabric",
+    "productCode": "SKU009",
+    "priceInr": 595,
+    "primaryCategory": "fabrics",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_sana-silk-fabric.jpg",
+      "carousels/md_web_sana-silk-fabric/md_web_sana-silk-fabric_slide_01.jpg",
+      "carousels/md_web_sana-silk-fabric/md_web_sana-silk-fabric_slide_02.jpg",
+      "carousels/md_web_sana-silk-fabric/md_web_sana-silk-fabric_slide_03.jpg",
+      "carousels/md_web_sana-silk-fabric/md_web_sana-silk-fabric_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-050_01_lg.jpg",
+      "/assets/products/MD-PROD-050_02_lg.jpg",
+      "/assets/products/MD-PROD-050_03_lg.jpg",
+      "/assets/products/MD-PROD-050_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-050_01_card.jpg",
+      "/assets/products/MD-PROD-050_02_card.jpg",
+      "/assets/products/MD-PROD-050_03_card.jpg",
+      "/assets/products/MD-PROD-050_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-051",
+    "slug": "vichitra-silk-unstitched-material-051",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "VICHITRA SILK",
+    "displayTitle": "Vichitra Silk Unstitched Material",
+    "productCode": "SKU008",
+    "priceInr": 1895,
+    "primaryCategory": "dress-materials",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_vichitra-silk.jpg",
+      "carousels/md_web_vichitra-silk/md_web_vichitra-silk_slide_01.jpg",
+      "carousels/md_web_vichitra-silk/md_web_vichitra-silk_slide_02.jpg",
+      "carousels/md_web_vichitra-silk/md_web_vichitra-silk_slide_03.jpg",
+      "carousels/md_web_vichitra-silk/md_web_vichitra-silk_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-051_01_lg.jpg",
+      "/assets/products/MD-PROD-051_02_lg.jpg",
+      "/assets/products/MD-PROD-051_03_lg.jpg",
+      "/assets/products/MD-PROD-051_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-051_01_card.jpg",
+      "/assets/products/MD-PROD-051_02_card.jpg",
+      "/assets/products/MD-PROD-051_03_card.jpg",
+      "/assets/products/MD-PROD-051_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-052",
+    "slug": "banaras-saree-052",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "BANARAS SAREE",
+    "displayTitle": "Banaras Saree",
+    "productCode": "SKU006BLU",
+    "priceInr": 1895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_banaras-saree.jpg",
+      "carousels/md_web_banaras-saree/md_web_banaras-saree_slide_01.jpg",
+      "carousels/md_web_banaras-saree/md_web_banaras-saree_slide_02.jpg",
+      "carousels/md_web_banaras-saree/md_web_banaras-saree_slide_03.jpg",
+      "carousels/md_web_banaras-saree/md_web_banaras-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-052_01_lg.jpg",
+      "/assets/products/MD-PROD-052_02_lg.jpg",
+      "/assets/products/MD-PROD-052_03_lg.jpg",
+      "/assets/products/MD-PROD-052_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-052_01_card.jpg",
+      "/assets/products/MD-PROD-052_02_card.jpg",
+      "/assets/products/MD-PROD-052_03_card.jpg",
+      "/assets/products/MD-PROD-052_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-053",
+    "slug": "banaras-saree-with-zari-work-053",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "BANARAS SAREE WITH ZARI WORK",
+    "displayTitle": "Banaras Saree With Zari Work",
+    "productCode": "SKU005ORG",
+    "priceInr": 2195,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_banaras-saree-with-zari-work.jpg",
+      "carousels/md_web_banaras-saree-with-zari-work/md_web_banaras-saree-with-zari-work_slide_01.jpg",
+      "carousels/md_web_banaras-saree-with-zari-work/md_web_banaras-saree-with-zari-work_slide_02.jpg",
+      "carousels/md_web_banaras-saree-with-zari-work/md_web_banaras-saree-with-zari-work_slide_03.jpg",
+      "carousels/md_web_banaras-saree-with-zari-work/md_web_banaras-saree-with-zari-work_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-053_01_lg.jpg",
+      "/assets/products/MD-PROD-053_02_lg.jpg",
+      "/assets/products/MD-PROD-053_03_lg.jpg",
+      "/assets/products/MD-PROD-053_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-053_01_card.jpg",
+      "/assets/products/MD-PROD-053_02_card.jpg",
+      "/assets/products/MD-PROD-053_03_card.jpg",
+      "/assets/products/MD-PROD-053_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-054",
+    "slug": "jute-saree-054",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "JUTE SAREE",
+    "displayTitle": "Jute Saree",
+    "productCode": "SKU004DRKPNK",
+    "priceInr": 2195,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_jute-saree.jpg",
+      "carousels/md_web_jute-saree/md_web_jute-saree_slide_01.jpg",
+      "carousels/md_web_jute-saree/md_web_jute-saree_slide_02.jpg",
+      "carousels/md_web_jute-saree/md_web_jute-saree_slide_03.jpg",
+      "carousels/md_web_jute-saree/md_web_jute-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-054_01_lg.jpg",
+      "/assets/products/MD-PROD-054_02_lg.jpg",
+      "/assets/products/MD-PROD-054_03_lg.jpg",
+      "/assets/products/MD-PROD-054_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-054_01_card.jpg",
+      "/assets/products/MD-PROD-054_02_card.jpg",
+      "/assets/products/MD-PROD-054_03_card.jpg",
+      "/assets/products/MD-PROD-054_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-055",
+    "slug": "kalamkari-cotton-saree-055",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "kalamkari cotton",
+    "displayTitle": "Kalamkari Cotton Saree",
+    "productCode": "SKU003GRN",
+    "priceInr": 1895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_kalamkari-cotton.jpg",
+      "carousels/md_web_kalamkari-cotton/md_web_kalamkari-cotton_slide_01.jpg",
+      "carousels/md_web_kalamkari-cotton/md_web_kalamkari-cotton_slide_02.jpg",
+      "carousels/md_web_kalamkari-cotton/md_web_kalamkari-cotton_slide_03.jpg",
+      "carousels/md_web_kalamkari-cotton/md_web_kalamkari-cotton_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-055_01_lg.jpg",
+      "/assets/products/MD-PROD-055_02_lg.jpg",
+      "/assets/products/MD-PROD-055_03_lg.jpg",
+      "/assets/products/MD-PROD-055_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-055_01_card.jpg",
+      "/assets/products/MD-PROD-055_02_card.jpg",
+      "/assets/products/MD-PROD-055_03_card.jpg",
+      "/assets/products/MD-PROD-055_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-056",
+    "slug": "fancy-cotton-saree-056",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "FANCY COTTON SAREE",
+    "displayTitle": "Fancy Cotton Saree",
+    "productCode": "SKU002BRWN",
+    "priceInr": 1895,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_fancy-cotton-saree.jpg",
+      "carousels/md_web_fancy-cotton-saree/md_web_fancy-cotton-saree_slide_01.jpg",
+      "carousels/md_web_fancy-cotton-saree/md_web_fancy-cotton-saree_slide_02.jpg",
+      "carousels/md_web_fancy-cotton-saree/md_web_fancy-cotton-saree_slide_03.jpg",
+      "carousels/md_web_fancy-cotton-saree/md_web_fancy-cotton-saree_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-056_01_lg.jpg",
+      "/assets/products/MD-PROD-056_02_lg.jpg",
+      "/assets/products/MD-PROD-056_03_lg.jpg",
+      "/assets/products/MD-PROD-056_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-056_01_card.jpg",
+      "/assets/products/MD-PROD-056_02_card.jpg",
+      "/assets/products/MD-PROD-056_03_card.jpg",
+      "/assets/products/MD-PROD-056_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-057",
+    "slug": "banaras-saree-057",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "BANARAS SAREE",
+    "displayTitle": "Banaras Saree",
+    "productCode": "SKU001VIO",
+    "priceInr": 1795,
+    "primaryCategory": "sarees",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_cotton-zari-chudi.jpg",
+      "carousels/md_web_cotton-zari-chudi/md_web_cotton-zari-chudi_slide_01.jpg",
+      "carousels/md_web_cotton-zari-chudi/md_web_cotton-zari-chudi_slide_02.jpg",
+      "carousels/md_web_cotton-zari-chudi/md_web_cotton-zari-chudi_slide_03.jpg",
+      "carousels/md_web_cotton-zari-chudi/md_web_cotton-zari-chudi_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-057_01_lg.jpg",
+      "/assets/products/MD-PROD-057_02_lg.jpg",
+      "/assets/products/MD-PROD-057_03_lg.jpg",
+      "/assets/products/MD-PROD-057_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-057_01_card.jpg",
+      "/assets/products/MD-PROD-057_02_card.jpg",
+      "/assets/products/MD-PROD-057_03_card.jpg",
+      "/assets/products/MD-PROD-057_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-058",
+    "slug": "cotton-fabric-thread-work-058",
+    "status": "quarantined",
+    "statusReason": "Quarantined saleable record ('Cotton Fabric Thread Work', ₹395.00) because 0 local photographs exist in the archive.",
+    "sourceTitle": "Cotton Fabric Thread Work",
+    "displayTitle": "Cotton Fabric Thread Work",
+    "productCode": null,
+    "priceInr": 395,
+    "primaryCategory": "fabrics",
+    "rawMediaCount": 0,
+    "uniqueMediaCount": 0,
+    "sourceMediaPaths": [],
+    "optimizedMediaPaths": [],
+    "cardMediaPaths": []
+  },
+  {
+    "productId": "MD-PROD-059",
+    "slug": "thread-work-muslin-unstitched-material-059",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "TREAD WORK MUSLIN FABRIC",
+    "displayTitle": "Thread Work Muslin Unstitched Material",
+    "productCode": "SKU004RURED",
+    "priceInr": 1895,
+    "primaryCategory": "dress-materials",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_tread-work-muslin-fabric.jpg",
+      "carousels/md_web_tread-work-muslin-fabric/md_web_tread-work-muslin-fabric_slide_01.jpg",
+      "carousels/md_web_tread-work-muslin-fabric/md_web_tread-work-muslin-fabric_slide_02.jpg",
+      "carousels/md_web_tread-work-muslin-fabric/md_web_tread-work-muslin-fabric_slide_03.jpg",
+      "carousels/md_web_tread-work-muslin-fabric/md_web_tread-work-muslin-fabric_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-059_01_lg.jpg",
+      "/assets/products/MD-PROD-059_02_lg.jpg",
+      "/assets/products/MD-PROD-059_03_lg.jpg",
+      "/assets/products/MD-PROD-059_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-059_01_card.jpg",
+      "/assets/products/MD-PROD-059_02_card.jpg",
+      "/assets/products/MD-PROD-059_03_card.jpg",
+      "/assets/products/MD-PROD-059_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-060",
+    "slug": "mul-chanderi-pearl-thread-work-set-060",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "MUL CHANDERI PEARL& THREAD WORK",
+    "displayTitle": "Mul Chanderi Pearl & Thread Work Set",
+    "productCode": "SKU007MUSYEL",
+    "priceInr": 1895,
+    "primaryCategory": "dress-materials",
+    "rawMediaCount": 4,
+    "uniqueMediaCount": 3,
+    "sourceMediaPaths": [
+      "posts/images/md_web_mul-chanderi-pearl-thread-work.jpg",
+      "carousels/md_web_mul-chanderi-pearl-thread-work/md_web_mul-chanderi-pearl-thread-work_slide_01.jpg",
+      "carousels/md_web_mul-chanderi-pearl-thread-work/md_web_mul-chanderi-pearl-thread-work_slide_02.jpg",
+      "carousels/md_web_mul-chanderi-pearl-thread-work/md_web_mul-chanderi-pearl-thread-work_slide_03.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-060_01_lg.jpg",
+      "/assets/products/MD-PROD-060_02_lg.jpg",
+      "/assets/products/MD-PROD-060_03_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-060_01_card.jpg",
+      "/assets/products/MD-PROD-060_02_card.jpg",
+      "/assets/products/MD-PROD-060_03_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-061",
+    "slug": "muslin-cotton-sequence-pearl-work-set-061",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "MUSLIN COTTON SEQUENCE & PEARL WORK",
+    "displayTitle": "Muslin Cotton Sequence & Pearl Work Set",
+    "productCode": "SKU006RNIPNK",
+    "priceInr": 1695,
+    "primaryCategory": "dress-materials",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_muslin-cotton-sequence-pearl-work.jpg",
+      "carousels/md_web_muslin-cotton-sequence-pearl-work/md_web_muslin-cotton-sequence-pearl-work_slide_01.jpg",
+      "carousels/md_web_muslin-cotton-sequence-pearl-work/md_web_muslin-cotton-sequence-pearl-work_slide_02.jpg",
+      "carousels/md_web_muslin-cotton-sequence-pearl-work/md_web_muslin-cotton-sequence-pearl-work_slide_03.jpg",
+      "carousels/md_web_muslin-cotton-sequence-pearl-work/md_web_muslin-cotton-sequence-pearl-work_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-061_01_lg.jpg",
+      "/assets/products/MD-PROD-061_02_lg.jpg",
+      "/assets/products/MD-PROD-061_03_lg.jpg",
+      "/assets/products/MD-PROD-061_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-061_01_card.jpg",
+      "/assets/products/MD-PROD-061_02_card.jpg",
+      "/assets/products/MD-PROD-061_03_card.jpg",
+      "/assets/products/MD-PROD-061_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-062",
+    "slug": "semi-chanderi-thread-zari-work-set-062",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SEMI CHANDERI THREAD & ZARI WORK",
+    "displayTitle": "Semi Chanderi Thread & Zari Work Set",
+    "productCode": "SKU005DPPLUM",
+    "priceInr": 1595,
+    "primaryCategory": "dress-materials",
+    "rawMediaCount": 4,
+    "uniqueMediaCount": 3,
+    "sourceMediaPaths": [
+      "posts/images/md_web_semi-chanderi-thread-zari-work.jpg",
+      "carousels/md_web_semi-chanderi-thread-zari-work/md_web_semi-chanderi-thread-zari-work_slide_01.jpg",
+      "carousels/md_web_semi-chanderi-thread-zari-work/md_web_semi-chanderi-thread-zari-work_slide_02.jpg",
+      "carousels/md_web_semi-chanderi-thread-zari-work/md_web_semi-chanderi-thread-zari-work_slide_03.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-062_01_lg.jpg",
+      "/assets/products/MD-PROD-062_02_lg.jpg",
+      "/assets/products/MD-PROD-062_03_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-062_01_card.jpg",
+      "/assets/products/MD-PROD-062_02_card.jpg",
+      "/assets/products/MD-PROD-062_03_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-063",
+    "slug": "fancy-chanderi-thread-mirror-work-set-063",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "FANCY CHANDERI THREAD & MIRROR WORK",
+    "displayTitle": "Fancy Chanderi Thread & Mirror Work Set",
+    "productCode": "SKU003SKBLU",
+    "priceInr": 2195,
+    "primaryCategory": "dress-materials",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_fancy-chanderi-thread-mirror-work.jpg",
+      "carousels/md_web_fancy-chanderi-thread-mirror-work/md_web_fancy-chanderi-thread-mirror-work_slide_01.jpg",
+      "carousels/md_web_fancy-chanderi-thread-mirror-work/md_web_fancy-chanderi-thread-mirror-work_slide_02.jpg",
+      "carousels/md_web_fancy-chanderi-thread-mirror-work/md_web_fancy-chanderi-thread-mirror-work_slide_03.jpg",
+      "carousels/md_web_fancy-chanderi-thread-mirror-work/md_web_fancy-chanderi-thread-mirror-work_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-063_01_lg.jpg",
+      "/assets/products/MD-PROD-063_02_lg.jpg",
+      "/assets/products/MD-PROD-063_03_lg.jpg",
+      "/assets/products/MD-PROD-063_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-063_01_card.jpg",
+      "/assets/products/MD-PROD-063_02_card.jpg",
+      "/assets/products/MD-PROD-063_03_card.jpg",
+      "/assets/products/MD-PROD-063_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-064",
+    "slug": "semi-rawsilk-top-jute-cotton-shawl-set-064",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "SEMI RAWSILK TOP & SHAWL JUTE COTTON",
+    "displayTitle": "Semi Rawsilk Top & Jute Cotton Shawl Set",
+    "productCode": "SKU002ORA",
+    "priceInr": 1095,
+    "primaryCategory": "dress-materials",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_semi-rawsilk-top-shawl-jute-cotton.jpg",
+      "carousels/md_web_semi-rawsilk-top-shawl-jute-cotton/md_web_semi-rawsilk-top-shawl-jute-cotton_slide_01.jpg",
+      "carousels/md_web_semi-rawsilk-top-shawl-jute-cotton/md_web_semi-rawsilk-top-shawl-jute-cotton_slide_02.jpg",
+      "carousels/md_web_semi-rawsilk-top-shawl-jute-cotton/md_web_semi-rawsilk-top-shawl-jute-cotton_slide_03.jpg",
+      "carousels/md_web_semi-rawsilk-top-shawl-jute-cotton/md_web_semi-rawsilk-top-shawl-jute-cotton_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-064_01_lg.jpg",
+      "/assets/products/MD-PROD-064_02_lg.jpg",
+      "/assets/products/MD-PROD-064_03_lg.jpg",
+      "/assets/products/MD-PROD-064_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-064_01_card.jpg",
+      "/assets/products/MD-PROD-064_02_card.jpg",
+      "/assets/products/MD-PROD-064_03_card.jpg",
+      "/assets/products/MD-PROD-064_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-065",
+    "slug": "lite-zari-work-chanderi-cotton-set-065",
+    "status": "approved",
+    "statusReason": null,
+    "sourceTitle": "LITE ZARI WORK CHANDERI COTTON",
+    "displayTitle": "Lite Zari Work Chanderi Cotton Set",
+    "productCode": null,
+    "priceInr": 895,
+    "primaryCategory": "dress-materials",
+    "rawMediaCount": 5,
+    "uniqueMediaCount": 4,
+    "sourceMediaPaths": [
+      "posts/images/md_web_lite-zari-work-chanderi-cotton.jpg",
+      "carousels/md_web_lite-zari-work-chanderi-cotton/md_web_lite-zari-work-chanderi-cotton_slide_01.jpg",
+      "carousels/md_web_lite-zari-work-chanderi-cotton/md_web_lite-zari-work-chanderi-cotton_slide_02.jpg",
+      "carousels/md_web_lite-zari-work-chanderi-cotton/md_web_lite-zari-work-chanderi-cotton_slide_03.jpg",
+      "carousels/md_web_lite-zari-work-chanderi-cotton/md_web_lite-zari-work-chanderi-cotton_slide_04.jpg"
+    ],
+    "optimizedMediaPaths": [
+      "/assets/products/MD-PROD-065_01_lg.jpg",
+      "/assets/products/MD-PROD-065_02_lg.jpg",
+      "/assets/products/MD-PROD-065_03_lg.jpg",
+      "/assets/products/MD-PROD-065_04_lg.jpg"
+    ],
+    "cardMediaPaths": [
+      "/assets/products/MD-PROD-065_01_card.jpg",
+      "/assets/products/MD-PROD-065_02_card.jpg",
+      "/assets/products/MD-PROD-065_03_card.jpg",
+      "/assets/products/MD-PROD-065_04_card.jpg"
+    ]
+  },
+  {
+    "productId": "MD-PROD-066",
+    "slug": "archive-reference-md-prod-066-066",
+    "status": "reference_only",
+    "statusReason": "Public collection reference record without individual SKU or media.",
+    "sourceTitle": null,
+    "displayTitle": "Archive Reference (MD-PROD-066)",
+    "productCode": null,
+    "priceInr": null,
+    "primaryCategory": null,
+    "rawMediaCount": 0,
+    "uniqueMediaCount": 0,
+    "sourceMediaPaths": [],
+    "optimizedMediaPaths": [],
+    "cardMediaPaths": []
+  },
+  {
+    "productId": "MD-PROD-067",
+    "slug": "archive-reference-md-prod-067-067",
+    "status": "reference_only",
+    "statusReason": "Public collection reference record without individual SKU or media.",
+    "sourceTitle": null,
+    "displayTitle": "Archive Reference (MD-PROD-067)",
+    "productCode": null,
+    "priceInr": null,
+    "primaryCategory": null,
+    "rawMediaCount": 0,
+    "uniqueMediaCount": 0,
+    "sourceMediaPaths": [],
+    "optimizedMediaPaths": [],
+    "cardMediaPaths": []
+  },
+  {
+    "productId": "MD-PROD-068",
+    "slug": "archive-reference-md-prod-068-068",
+    "status": "reference_only",
+    "statusReason": "Public collection reference record without individual SKU or media.",
+    "sourceTitle": null,
+    "displayTitle": "Archive Reference (MD-PROD-068)",
+    "productCode": null,
+    "priceInr": null,
+    "primaryCategory": null,
+    "rawMediaCount": 0,
+    "uniqueMediaCount": 0,
+    "sourceMediaPaths": [],
+    "optimizedMediaPaths": [],
+    "cardMediaPaths": []
+  },
+  {
+    "productId": "MD-PROD-069",
+    "slug": "archive-reference-md-prod-069-069",
+    "status": "reference_only",
+    "statusReason": "Public collection reference record without individual SKU or media.",
+    "sourceTitle": null,
+    "displayTitle": "Archive Reference (MD-PROD-069)",
+    "productCode": null,
+    "priceInr": null,
+    "primaryCategory": null,
+    "rawMediaCount": 0,
+    "uniqueMediaCount": 0,
+    "sourceMediaPaths": [],
+    "optimizedMediaPaths": [],
+    "cardMediaPaths": []
+  }
+]
